@@ -1,6 +1,6 @@
 ---
 title: chicky chick
-date: 2017-01-18 12:25:00 Z
+date: 2017-01-18 13:25:00 +01:00
 categories:
 - text
 ---
