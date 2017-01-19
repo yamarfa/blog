@@ -1,6 +1,10 @@
 .uppercase {
   text-transform: uppercase;
 }
+.preview__excerpt {
+  color: $mq-xs;
+  font-size: $mq-xs;
+}
 /**
 *Tags*
 **/
@@ -9,7 +13,7 @@
   display: inline-block;
   padding: 1em 1em 1em 0;
   li+li {
-    1em;
+    padding-left: 1em;
   }
   a { color: $color-black; }
   a:hover {
