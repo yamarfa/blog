@@ -130,8 +130,8 @@
     }
   }
 
-  &__date {
-    font-family: $font-header;
+  &__date,  &__excerpt  {
+    font-family: $font-post;
     color: $color-grey-light;
     font-size: 89%;
   }
@@ -140,11 +140,6 @@
     color: $color-alpha;
 
     margin-bottom: 0.5em;
-  }
-
-  &__excerpt {
-    color: $color-grey-light;
-    font-size: 89%;
   }
 
   &__more {
