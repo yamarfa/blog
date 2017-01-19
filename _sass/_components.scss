@@ -16,18 +16,20 @@
 }
 
 /**
+*services texts styling
+**/
+.foter__archive, .tabs, .archives__header, .nav--black {
+    @extend %letter-spacing;
+    @extend .service-text;
+}
+/**
  * Tabs
  * On the Blog page for posts and categories
  */
  header .tabs {
   border-bottom: 1px solid $color-alpha--light;
-  font-family: $font-post;
-  @extend .small;
-  @extend .bold;
  }
 .tabs {
-  @extend %letter-spacing;
-
   display: flex;
   justify-content: space-around;
   padding: 1em;
