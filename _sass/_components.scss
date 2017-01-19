@@ -374,6 +374,10 @@
     &:focus {
       color: $color-black;
     }
+    svg {
+      @include transform(rotate(180deg));
+      transform-origin: center;
+    }
   }
 
   &--white {
