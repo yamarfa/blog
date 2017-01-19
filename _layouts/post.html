@@ -16,7 +16,7 @@ layout: default
       {% if page.categories.size > 0 %}
         <span>
           Posted in <ul class="tags uppercase">
-              <li><a class="uppercase" href="{{ site.baseurl }}/category/{{ category | first | downcase | slugify }}/">{{ page.categories | join: ', ' }}</a></li>
+              <li><a href="{{ site.baseurl }}/category/{{ category | first | downcase | slugify }}/">{{ page.categories | join: ', ' }}</a></li>
               </ul>
         </span>
       {% endif %}
