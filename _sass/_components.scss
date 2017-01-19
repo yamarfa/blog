@@ -2,7 +2,8 @@
 .preview_link h2 {
     @include underlined_simple (transparent, 2px);
     &::before {
-         @include transition(all, .3s ease); @include transform(scale(0)); 
+         @include transition(all, .3s ease); 
+         @include transform(scale(0)); 
     }
     &:hover {
       color:#000;
