@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  artbooks:
+    title: artbooks
+    output: true
 email: 
 baseurl: 
 paginate: 5
