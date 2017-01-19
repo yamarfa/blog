@@ -3,6 +3,7 @@ title: Books
 date: 2017-01-19 09:50:00 +01:00
 categories:
 - books
+- art
 tags:
 - art
 - books
