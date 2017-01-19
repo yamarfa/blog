@@ -1,8 +1,6 @@
 ---
 title: Design process
 date: 2017-01-18 20:15:00 +01:00
-categories:
-- text
 tags:
 - design
 image: "/blog/uploads/bg--hands-people-woman-working.jpg"
