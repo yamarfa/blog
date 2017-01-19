@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  art:
+    title: art
+    output: true
   categories:
     title: categories
     output: true
