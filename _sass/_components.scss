@@ -1,11 +1,13 @@
 .uppercase {
   text-transform: uppercase;
 }
-.small { font-size: 75% }
-.preview__excerpt {
-  color: $color-grey-light;
-  font-size: 89%;
+
+.preview__date, .preview__excerpt  {
+    color: $color-grey-light;
+      font-size: 89%;
+
 }
+
 /**
 *Tags*
 **/
