@@ -25,6 +25,10 @@ layout: default
   <section class="section-padding post" itemprop="articleBody">
     {{ content }}
   </section>
+
+  <section class="meta">
+      {% include tags.html %}
+  </section>
   
   {% if site.profile %}
   <section class="profile">
