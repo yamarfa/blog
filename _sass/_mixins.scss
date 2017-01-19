@@ -120,7 +120,7 @@
  * Box Shadow
  */
 @mixin box-shadow($size, $color) {
- -webkit-box-shadow: 0 $size $size * 2 rgba($color, 0.1), 0 $size $size * 2 rgba($color, 0.2);
-  -moz-box-shadow: 0 $size $size * 2 rgba($color, 0.1), 0 $size $size * 2 rgba($color, 0.2);
-  box-shadow:0 $size $size * 2 rgba($color, 0.1), 0 $size $size * 2 rgba($color, 0.2);
+ -webkit-box-shadow: 0 $size $size * 2 rgba($color, 0.25), 0 $size $size * 2 rgba($color, 0.25);
+  -moz-box-shadow: 0 $size $size * 2 rgba($color, 0.25), 0 $size $size * 2 rgba($color, 0.25);
+  box-shadow:0 $size $size * 2 rgba($color, 0.25), 0 $size $size * 2 rgba($color, 0.25);
 }
