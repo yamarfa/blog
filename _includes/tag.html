@@ -22,7 +22,7 @@
     </header>
 
     <div class="tab">
-    <ul>
+    <ul>{{ post.tags }}
     {{ t | downcase }}
 {% for post in posts %}
   {% if post.tags contains t %}
