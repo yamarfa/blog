@@ -1,12 +1,8 @@
----
-layout: default
----
-
-<span>Tags:</span>
 {
-    "tags": [
+    <ul class="tags">
+     [
         {% for tag in site.tags %}
-        "{{ tag | first }}"{% unless forloop.last %},{% endunless %}
+        <li>{{ tag | first }}"{% unless forloop.last %},{% endunless %}</li>
         {% endfor %}
     ]
 }
