@@ -3,3 +3,4 @@ title: Books
 date: 2017-01-19 18:36:00 +01:00
 ---
 
+{% include category.html %}
