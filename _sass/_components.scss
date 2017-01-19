@@ -1,4 +1,4 @@
-
+.bg { background-color: $color-alpha--light; }
 /**
 *Tags*
 **/
@@ -130,7 +130,7 @@
      display: block;
    }
   &__date,  &__excerpt  {
-    color: $color-grey-light;
+    color: $color-grey--light;
     font-size: 89%;
   }
 
