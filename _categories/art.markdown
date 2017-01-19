@@ -1,7 +1,6 @@
 ---
 title: Art
-permalink: /category/art/
+permalink: /categories/art/
 layout: default
 ---
-
 {% include category.html %}
