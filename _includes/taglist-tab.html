@@ -5,7 +5,7 @@
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
-  <h2>{{ t | camelize | replace: "-", " " }} ( {{  posts | size }} )</h2>
+  <h2>{{ t | camelize | replace: "-", " " }} ( {{ posts | size }} )</h2>
 
   <ul class="tag-pingbacks">
     {% for p in posts %}
