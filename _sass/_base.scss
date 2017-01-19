@@ -5,14 +5,14 @@ $font-header: 'Poppins', sans-serif;
 $font-body: 'Work Sans', sans-serif;
 $font-post: 'Karla', sans-serif;
 
-$color-alpha: #9f8f68;
-$color-alpha--light: #f5f3ef;
+$color-alpha: #13ebb6;
+$color-alpha--light: #6153ee;
 
 $color-black: #0a0a0a;
 $color-grey: #f8f9f9;
 $color-white: #fff;
 
-$mq-xs: 20em;
+$mq-xs: 16em;
 $mq-sm: 30em;
 $mq-md: 54em;
 $mq-lg: 64em;
@@ -104,7 +104,7 @@ img {
 ol, ul {
   margin: 0;
   padding: 0;
-
+  font-family: $font-body;
   list-style-type: none;
 }
 

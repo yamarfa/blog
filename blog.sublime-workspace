@@ -267,6 +267,23 @@
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "assets/js/app.js",
+			"settings":
+			{
+				"buffer_size": 2481,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1776,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -334,9 +351,9 @@
 	"expanded_folders":
 	[
 		"/Users/Garcia/Sites/git/blog",
-		"/Users/Garcia/Sites/git/blog/_sass",
 		"/Users/Garcia/Sites/git/blog/assets",
-		"/Users/Garcia/Sites/git/blog/assets/css"
+		"/Users/Garcia/Sites/git/blog/assets/css",
+		"/Users/Garcia/Sites/git/blog/assets/js"
 	],
 	"file_history":
 	[
@@ -642,7 +659,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -658,8 +675,8 @@
 						"selection":
 						[
 							[
-								85,
-								85
+								81,
+								81
 							]
 						],
 						"settings":
@@ -673,6 +690,72 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 18.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/js/app.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
