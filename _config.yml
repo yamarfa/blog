@@ -1,6 +1,7 @@
 ---
 title: Perfectly something
 timezone: Europe/Paris
+future: true
 collections:
   posts:
     title: Posts
@@ -41,5 +42,5 @@ sass:
 gems:
 - jekyll-paginate
 - jekyll-sitemap
-- jekyll/tagging
+- jekyll-tagging
 - octopress-autoprefixer
