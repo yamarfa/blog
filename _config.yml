@@ -1,0 +1,45 @@
+---
+title: Perfectly something
+timezone: Europe/Paris
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  categories:
+    title: categories
+    output: true
+  tags:
+    title: tags
+    output: true
+email: 
+baseurl: 
+paginate: 5
+paginate_path: "/blog/page-:num"
+google_analytics: 
+description: Blog test
+url: 
+twitter_username: 
+default_img: 
+name: 
+profile_img: 
+profile: 
+social:
+  github: 
+include:
+- _categories
+exclude:
+- _screenshots
+- Gemfile
+- Gemfile.lock
+markdown: kramdown
+permalink: "/:year/:month/:day/:title/"
+sass:
+  style: compressed
+gems:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll/tagging
+- octopress-autoprefixer
