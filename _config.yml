@@ -2,14 +2,14 @@
 title: Perfectly something
 timezone: Europe/Paris
 collections:
+  categories:
+    title: Categories
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
-    output: true
-  categories:
-    title: Categories
     output: true
   tags:
     title: tTags
