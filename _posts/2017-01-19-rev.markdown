@@ -1,12 +1,6 @@
 ---
 title: Два шрифта одной революции
 date: 2017-01-19 14:55:00 +01:00
-categories:
-- art
-- books
-tags:
-- artbooks
-- design
 image: "/blog/uploads/6.jpg"
 ---
 
