@@ -1,0 +1,774 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"tc-",
+				"tc-content"
+			],
+			[
+				"tc",
+				"tc-content"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"post-n",
+				"post-navigation"
+			],
+			[
+				"pos",
+				"post-thumbnail"
+			],
+			[
+				"let",
+				"letter-spacing-2"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"le",
+				"letter-spacing-2"
+			],
+			[
+				"s",
+				"slider-prev"
+			],
+			[
+				"l",
+				"letter-spacing-1"
+			],
+			[
+				"grey",
+				"grey-light"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"fi",
+				"first-of-type"
+			],
+			[
+				"se",
+				"serviceFont"
+			],
+			[
+				"ca",
+				"caption\tTag"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"comment-re",
+				"comment-reply-inlineform"
+			],
+			[
+				"comment-reply",
+				"comment-reply-link"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"grey-",
+				"grey-light"
+			],
+			[
+				"ease",
+				"ease-in-out"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"transo",
+				"transform"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"tc-gri",
+				"tc-grid-icon"
+			],
+			[
+				"blo",
+				"blockquote"
+			],
+			[
+				"tc-grid",
+				"tc-grid-figure"
+			],
+			[
+				"post",
+				"post-info"
+			],
+			[
+				"grid",
+				"grid-container__masonry"
+			],
+			[
+				"grid-c",
+				"grid-container__alternate"
+			],
+			[
+				"trn",
+				"transform"
+			],
+			[
+				"al",
+				"alternate-layout"
+			],
+			[
+				"tc-g",
+				"tc-grid-figure"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"gre",
+				"grey-light"
+			],
+			[
+				"navbar",
+				"navbar-sticky"
+			],
+			[
+				"header",
+				"header-skin-light"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ve",
+				"v-divider"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"cu",
+				"cursor"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"lo",
+				"lowercase"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"j",
+				"justified"
+			],
+			[
+				"tet",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_sass/_base.scss",
+			"settings":
+			{
+				"buffer_size": 1569,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "Package Control: i",
+		"selected_items":
+		[
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"SassBeautify",
+				"SassBeautify: Convert from SCSS to current type"
+			],
+			[
+				"PackageIn",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Local Dependency"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Garcia/Sites/git/blog",
+		"/Users/Garcia/Sites/git/blog/_sass",
+		"/Users/Garcia/Sites/git/blog/assets",
+		"/Users/Garcia/Sites/git/blog/assets/css"
+	],
+	"file_history":
+	[
+		"/Users/Garcia/Works/web/web-fonts-sources/css/fonts.css",
+		"/Users/Garcia/Works/web/web-fonts-sources/css/style.css",
+		"/Users/Garcia/Works/web/web-fonts-sources/css/font-faces.css",
+		"/Users/Garcia/Works/web/web-fonts-sources/fonts.html",
+		"/Users/Garcia/Works/web/web-fonts-sources/css/gotham-narrow.css",
+		"/Users/Garcia/Works/web/web-fonts-sources/gotham-narrow.css",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/base/_mixins.scss",
+		"/Users/Garcia/Sites/coming_soon/scss/_modular-scale.scss",
+		"/Users/Garcia/Sites/coming_soon/scss/_typography.haml",
+		"/Users/Garcia/Sites/coming_soon/scss/_reset.scss",
+		"/Users/Garcia/Sites/coming_soon/css/style.css",
+		"/Users/Garcia/Sites/coming_soon/scss/_fonts.scss",
+		"/Users/Garcia/Sites/coming_soon/scss/utils.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/post-list.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/components/_components.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/layout/_content.scss",
+		"/Applications/Bear.app/Contents/Resources/System Font Theme.theme",
+		"/Users/Garcia/Desktop/blob-SVG.svg",
+		"/Users/Garcia/Downloads/Competitors.html",
+		"/Users/Garcia/Downloads/sarahlim.github.io-master/index.html",
+		"/Applications/Bear.app/Contents/Resources/Menlo.theme",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/layout/_grid.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/layout/_article.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/singlearticle-1s.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/singlearticle-1s-new-structure-optimized.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/grid-alternate-full-colreorder.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/grid-alternate-2s.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/grid-alternate-1s.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/grid-alternate-full.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/post-list-plain.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/css/customizr.css",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/layout/_sidebar.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/singlearticle-1c-1s.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/singlearticle-1s-ns-optimized-fllscreen.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/index.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/grid-masonry-3c-full.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/grid-classic-3c-1s.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/grid-classic-3c-full.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/ttt.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/post-formatting.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/navigation/_topnav.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/base/_skins.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/grid-classic-2c-2s.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/base/_typography.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/singlearticle-1s-ih-dark.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/layout/_footer.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/plain-postlist.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/base/_colours.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/singlearticle-1s-ih-light.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/components/_overlays.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/components/_forms.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/img/customizr_photos/alternate-squared-1.jpeg",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/base/_utilities.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/header-topnav.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/header-topnav-nofixedh.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/menu-dropdown-on-hover.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/layout/_responsive.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/base/_responsive.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/post-gallery.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/base/_variables.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/style.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/post-gallery-bg.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/singlearticle-1c-2s.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/components/_gallery.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/new-new-header-test_no-tables.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/header-without-tagline.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/header-with-long-sitename.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/sticky-nav-push.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/base/_base.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/skin-light-example.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/skin-dark-example.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/parallax.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/parallax-external.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/new-new-header-test.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/ham-desk-example.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/slider-example.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/header-with-longsitename.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/navigation/_hamburger.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/singlearticle-1s-ih.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/top-nav-test.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/header.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/grid-masonry-example.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/alternate-example.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/alternate-example-bothsidebars.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/alternate-example-leftsidebar.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/grid-example.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/v-centering__text.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/css/czr/style.css",
+		"/Users/Garcia/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/Garcia/Library/Application Support/Sublime Text 3/Packages/User/SassBeautify.sublime-settings",
+		"/Users/Garcia/Library/Application Support/Sublime Text 3/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/base/_skins_old.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/js/desktop_hamburger.js",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/js/min/desktop_hamburger-ck.js",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/navigation/_topnav_old.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/js/mobilemenu.js",
+		"/Users/Garcia/Sites/git/cutomizr/html/sticky-nav-overlap.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/index-header-mix.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/navigation/_n__code_topnav.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/index-header-uncode.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/js/czr/sticky_header.js",
+		"/Users/Garcia/Sites/git/cutomizr/html/sass_compil.txt",
+		"/Users/Garcia/Sites/git/cutomizr/html/index_skin-dark.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/index__s-dfezfezfezf.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/index-skin-light.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/js/czr/utils.js",
+		"/Users/Garcia/Sites/git/cutomizr/html/index-skin-dark.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/js/czr/dropdown_on_click-multitier.js",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/layout/_header.scss",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/js/cbpAnimatedHeader.js",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/css/font-awesome.css",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/css/style.css",
+		"/Users/Garcia/Works/web/perfectlysomething.be/versions/v02/assets/scss/_mixins.scss",
+		"/Users/Garcia/Works/web/perfectlysomething.be/versions/v02/assets/scss/_typography.scss",
+		"/Users/Garcia/Downloads/startbootstrap-agency-1.0.6/index.html",
+		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/base/typography.scss",
+		"/Users/Garcia/Downloads/startbootstrap-agency-1.0.6/less/variables.less",
+		"/Users/Garcia/Sites/public_html_/404.html",
+		"/Users/Garcia/Downloads/jonschlinkert-vertical-rhythm-c3f3830/vertical-rhythm.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h6",
+			"h5",
+			"\">",
+			"social",
+			"media",
+			"p, .address-detail a",
+			"15px",
+			"p, address",
+			"secondary_font",
+			"$background_img",
+			"beavis",
+			"font-f",
+			"p,",
+			"p",
+			"font",
+			"$primery",
+			"$secondery",
+			"width: 50%;",
+			"gallery",
+			"square",
+			"90%",
+			"<span class=\"v-separator\">|</span>",
+			".post-info ",
+			".post-info::before  ",
+			"narrow ",
+			"article:not(:last-of-type):before",
+			"class=\"btn-edit\">",
+			"comment-edit-btn btn btn-small",
+			".entry-meta a:hover",
+			"$black",
+			"entry",
+			"tags",
+			"tag",
+			"tags",
+			"a:hover",
+			"rder",
+			"tc-content-inner",
+			"post-list-plain ",
+			"sidebar",
+			"comments",
+			"post-comments",
+			"masonry",
+			"author",
+			"main-wr",
+			"68",
+			"pre",
+			"dash",
+			"gallery",
+			".comment-meta time",
+			".action",
+			"action",
+			"small",
+			"ser",
+			"bg",
+			"01.jpeg",
+			"tags",
+			"avatar",
+			"tagline",
+			";\n",
+			"post-author-name",
+			"author",
+			"comment-reply-link",
+			"page-nav",
+			"gallery",
+			"nav",
+			"page-n",
+			"btn",
+			"brea",
+			"nav",
+			";\n",
+			"breadcrump",
+			"search",
+			"radius",
+			"nav",
+			"tc-gallery-nav",
+			"customizr",
+			"calc",
+			"alter",
+			"post-ac",
+			"bezie",
+			"gallery",
+			"crz",
+			" }",
+			"service",
+			"catego",
+			"right",
+			"czr",
+			"right",
+			"czr",
+			"close",
+			"grey",
+			"tag",
+			"brand",
+			"@media (min-width: 668px)  { \n\t.single-post .sidebar { padding:0; }\n}\n@media screen and (min-width: 480px) and (max-width: 667px) {\n\t.article-container {\n\t\tpadding: 0 $base-line-height*2;\n\t}\n}\n.page__header { \n\ttext-align: center;\n\tpadding-top: 0.001em;\n\t&.image-header {\n\t\theight: calc( 100vh - ( 100vh / 3 ) ) !important;\n\t\tmin-height: 300px;\n\t\tline-height: calc( 100vh - ( 100vh / 3 ) );\n\t\tbackground: $grey-lightest url(\"../../assets/img/customizr_photos/feathers.jpg\"); \n\t\tbackground-size: cover;\n\t\tbackground-repeat: no-repeat;\n\t}\n\t&.plain {\n\t\theight: calc( 100vh / 2.5 ) !important;\n\t\tline-height: calc( 100vh / 2.5);\n\t\tbackground: $grey-lightest;\n\t\tmin-height: 300px;\n\t\t.category-info { padding-top:$base-line-height*2; }\n\t}\n\t.header-content-inner { \n\t\tdisplay: inline-block;\n\t\tvertical-align: baseline;\n\t\ttext-align: center;\n\t\tline-height: normal;\n\t}\n\t.header-content { \n\t\tposition: relative; \n\t\tz-index:6; \n\t\tdisplay: inline-block; \n\t\tvertical-align:bottom;\n\t\theight: calc(100% - 68px);\n\t\tline-height: calc(100% - 68px);\n\t\tmargin-top: 68px;\t\n\t\tpadding:0;\n\t\t.post-info {\n\t\t\t@extend .small;\n\t\t\tletter-spacing: 2px;\n\t\t\t@extend .semi-bold;\n\t\t\tposition: absolute;\n\t\t\tbottom: $base-line-height*2;\n\t\t\twidth:100%;\n\t\t\ttext-align: center;\n\t\t\tleft:0;\n  \t\t\tright:0;\n\t\t\tdiv { display: inline-block; }\n\t\t}\n\t}\n\t&.plain .header-content {\n\t\t\theight: 100%;\n\t\t\tmargin-top:0;\n\t}\n}\n.header-skin-dark {\n\t.image-header { background-image: url(\"../../assets/img/customizr_photos/colours.jpg\"); }\n}\n.bg .page-breadcrumbs { border: none; background: $white; }\n.page-breadcrumbs {\n\t@extend .small;\n\tpadding: $base-line-height*1.5 0;\n\tmargin-bottom: $base-line-height*2;\n\tborder-bottom: 1px solid $grey-light;\n\tdiv[class^=\"col-\"] { padding:0; }\n\t.breadcrumb {\n\t\t@extend %categories;\n\t\ta:not(:last-of-type)::after { content: \">\"; }\n\t\ta:last-of-type::after { content: \">\"; position: absolute; top: 0; left: 100%; margin: 0 6px; }\n\t\tposition: relative;\n\n\t}\t\n}\n\n.commnet.child {\n\tmargin-left:100px;\n}\n\n.post-content {\n\tcolor: $black;\n}\nsection[class^=\"post-\"] {\n\tmargin: $base-line-height*4 0 $base-line-height*2 0;\n\t.row { margin: $base-line-height*4 0 $base-line-height*2 0; }\n}\n\n.category-info {\n\t@extend %categories;\n\t\n\ta { \n\t\t\n\t\tmargin: 0  $base-line-height;\n\t\tpadding-right: $base-line-height;\n\t }\n\t position: relative; \n\t &:after {\n\t \tcontent: \"\";\n\t\tposition: absolute;\n\t\twidth: $base-line-height*3;\n\t\theight: 3px;\n\t\ttop: 3.75em;\n\t\tmargin:0 auto;\n\t\tbottom: 0;\n\t\tleft: 0;\n\t\tright:0;\n\t }\n}\n.post-pagination {\n\ttext-align:center;\n\tmargin: 0 auto;\n}\n.post-section-title {\n\t@extend .caps;\n\t@extend .small;\n\t@extend .letter-spacing-2;\n    position: relative;\n    text-align:center;\n    margin:0 auto;\n    margin-top: $base-line-height;\n    margin-bottom: $base-line-height*2;\n    span {\n\t\t display: inline-block;\n  \t\t position: relative;\n\n    }\n    span::before, span::after {\n    \tcontent: \"\";\n  \t\tposition: absolute;\n  \t\theight: 10px;\n  \t\tborder-bottom: 2px solid $grey-lightest;\n   \t\ttop: 0;\n  \t\twidth: 1000%;\n    }\n    span:before {\n\t\t  right: 100%;\n\t\t  margin-right: $base-line-height;\n\t}\n\tspan:after {\n\t\t  left: 100%;\n\t\t  margin-left: $base-line-height;\n\t}\n}\n\n.post-navigation {\n\tborder:1px solid $grey-lightest;\n\tli { \n\t\tfloat:left;\n\t\twidth: 33.333%;\n\t\ttext-align: center;\n\t}\n\tli:first-of-type { text-align: left;  }\n\tli:last-of-type  { text-align: right; }\n\t.post-nav-title { \n\t\t@include opacity(0); \n\t\tdisplay: inline-block;\n\t\tvertical-align: top;\n\t}\n\ta i.arrow { font-size: $base-line-height*2; }\n\ta { \n\t\tcolor: $black;\n\t\tline-height: $base-line-height*3;\n\t\theight: $base-line-height*3;\n\t\tdisplay: inline-block;\n\t\tvertical-align: middle;\n\t\t@include transition(all, .3s ease);\n\t\tposition: relative;\t\n\t\tfont-family: $serviceFont;\n\t\t@extend .small;\n\t\t@extend .caps;\n\t\t@extend .letter-spacing-1;\n\t\t@extend .bold;\n\t}\n\t.post-prev a {\n\t\tleft: $base-line-height*2;\n\t}\n\t.post-next a {\n\t\tright: $base-line-height*2;\n\t}\n\ta:hover {\n\t\t.post-nav-title { @include opacity(1); }\n\t}\n\t.post-prev a:hover {\n\t\tleft: -$base-line-height;\n\t}\n\t.post-next a:hover {\n\t\tright: -$base-line-height;\n\t}\n}\n.col-avatar-80 { width: 80px; float:left; display:block; }\n.col-avatar-64 { width: 64px; float:left; display:block; }\n.col-avatar-48  { width: 48px; float:left; display:block; }\n\n.comment-content {\n\tdiv[class^=\"col-\"] { \n\t\tpadding:0;\n\t\tposition:relative;\n\t\t\n\t}\n\t\n\t.comment-meta  { display:block; padding-left: $base-line-height; float:left; width:calc(100% - 90px); }\n\tfigure {\n\t\tmargin:0;\n\t\ttext-align: right;\n\t\tposition: relative;\n\t\tpadding-top:7px;\n\t\twidth:100%;\n\t\theight:100%;\n\t}\n}\n.post-author {\n\tfigure {\n\t\tposition: relative;\n\t\tpadding: $base-line-height*2;\n\t\tborder:2px solid $grey-lightest;\n\t\t@include clearfix;\n\t\timg { float:left }\n\t\tfigcaption { \n\t\t\tpadding-left:$base-line-height*2;\n\t\t\ttext-align: left; \t\n\t\t\tmargin-left: 100px;\n\t\t\ta:first-of-type {\n\t\t\t\t@extend .small;\n\t\t\t\t@extend .caps;\n\t\t\t\t@extend .thick;\n\t\t\t\tfloat:left;\n\t\t\t\tfont-family: $serviceFont;\n\t\t\t}\n\t\t\t.socials { float: right; }\n\t\t}\n\t\t.post-author-name { margin-top:0 }\n\t\t.post-author-title {\n\t\t\tfont-family: $serviceFont;\n\t\t\tbackground: $skin;\n\t\t\tcolor: $white;\n\t\t\tfont-weight: 900;\n\t\t\tpadding: 0 $base-line-height;\n\t\t\tletter-spacing: 2px;\n\t\t\t@extend .small;\n\t\t\t@include transform(rotate(-90deg) translate3d(-50%, -50%, 0));\n\t\t\twhite-space: nowrap;\n\t\t\tposition: absolute;\n\t\t\tleft: 0;\n\t\t\ttop: 50%;\n\t\t\t-webkit-transform-origin: top left;\n\t\t\t-ms-transform-origin: top left;\n\t\t\t-o-transform-origin: top left;\n\t\t\ttransform-origin: top left;\n\t\t}\n\t}\n\n}\n.comment-meta {\n\t.comment-author-link { @extend .bold; }\n\ttime { float:right; @extend .small; }\n\t.comment-edit-btn { @extend .small; }\n}\n\n\n.post-related-articles {\n\t\t.grid .grid-item {\n\t\t\tmargin-left: -15px;\n\t\t}\n\t\t.grid .tc-grid-post {\n\t\t\tbackground: $grey-lightest;\n\t\t\t-webkit-box-shadow: none;\n\t\t\t-moz-box-shadow: none;\n\t\t\tbox-shadow: none;\n\t\t}\n\t}\n\n.post-related-articles_container {\n\t\n}\n\n.post-pagination {\n\t@extend .small;\n\ta {\n\t\tcolor:$grey;\n\t}\n\ta:hover, .active a {\n\t\tcolor: $black;\n\t}\n}\n.comment-reply-link {\n\tborder-bottom-color: $grey-lightest;\n\tbox-shadow: inset 0 -5px 0 $grey-lightest;\n\tfont-family: $serviceFont;\n\t@extend .bold;\n\t@extend .caps;\n\tcolor: $black;\n\tspan:last-of-type {\n\t\tdisplay: none;\n\t\tborder-bottom: none;\n\t\tbox-shadow: 0;\n\t}\n\tspan:first-of-type {\n\t\tdisplay: inline-block;\n\t}\n\t.open & {\n\t\tspan:last-of-type {\n\t\t\tdisplay: inline-block;\n\t\t}\n\t\tspan:first-of-type {\n\t\t\tdisplay: none;\n\t\t}\n\t}\n}\n.comment-edit-btn {\n\tpadding:0.25em 0.67em 0.25em 0.67em ;\n}\ntime span { color: $grey; }\n.comment-author a { color: $black; @extend .semi-bold; @include underlined($grey-light, 2px);  }\n.comment-meta p { color: $grey-dark; }\n.czr-form {\n\n\t\t\t@media (min-width: 993px) {\n\t\t\t\t.form-group-text:nth-child(-n+3) {\n\t\t\t\t\twidth: calc((100% - #{$base-line-height} - 8px)/2);\n\t\t\t\t\tdisplay: inline-block;\n\t\t\t\t}\n\t\t\t\t.form-group-text:nth-child(3) {\n\t\t\t\t\tmargin-left: $base-line-height;\n\t\t\t\t}\n\t\t\t}\n\t\t\t\n}\n.wide  {\n\t\t.czr-form {\n\n\t\t\t@media (min-width: 993px) {\n\t\t\t\t.form-group-text {\n\t\t\t\t\twidth: calc((100% - #{$base-line-height*2} - 12px)/3);\n\t\t\t\t\tdisplay: inline-block;\n\t\t\t\t}\n\t\t\t\t.form-group-text  + .form-group-text {\n\t\t\t\t\tmargin-left: $base-line-height;\n\t\t\t\t}\n\t\t\t}\n\t\t\t\n\t\t}\n}\n.comment-cancel-link {\n\t\tfloat:right;\n\t\t@extend .small;\n\t\t@extend .caps;\n\t\tfont-family:  $serviceFont;\n\t\t@extend .bold;\n\t}\n.comment-reply {\n\tbackground: $grey-lightest;\n\tpadding: $base-line-height*2;\n\tmargin-top: $base-line-height*2;\n}\n\n.comment-reply-form {\n\tdisplay:none; \n\tposition: relative;\n\tpadding:$base-line-height $base-line-height*2 $base-line-height*2 $base-line-height*2;\n\tbackground:$grey-lightest;\n\ta.icon{\n\t\tposition: absolute;\n\t\tright: $base-line-height;\n\t\ttop: $base-line-height;\n\t}\n}\n.open .comment-reply-form {\n\tdisplay: block;\n}\n.comment-avatar .avatar-80 {\n\twidth:  80px;\n\theight: 80px;\n}\n.comment-avatar .avatar-64 {\n\twidth:  64px;\n\theight: 64px;\n}\n.comment-avatar .avatar-48 {\n\twidth:  48px;\n\theight: 48px;\n}\n\n\n.comment-list li.comment { margin-top:$base-line-height*2; padding-top:$base-line-height*2; border-top:1px solid $grey-light; }\n.comment-list li.comment.depth-1:first-of-type { border:0 }\n.comment-list li li    { margin-left: calc(80px + #{$base-line-height});   }\n.comment-list li li li { margin-left: calc(64px + #{$base-line-height});   }\n.comment-list li li li li { margin-left: calc(48px + #{$base-line-height});   }\n.pingback-list li { \n\tpadding: $base-line-height 0; \n\t&:not(:last-of-type) { border-bottom: 1px solid $grey-lightest; }\n\tstrong { font-weight: 600; border-bottom: 1px solid;}\n\tsup {\n\t\tfont-family: $serviceFont;\n\t\t@extend .bold;\n\t\t@extend .letter-spacing-2;\n\t\tcolor: $grey;\n\t\ttop: -$base-line-height;\n\t\t\n\t}\n\ta {\n\t\tcolor: $black;\n\t\t\n\t}\n}\n\n@media (max-width: 992px) {\n\t.col-avatar-80, .col-avatar-64, .col-avatar-48 {\n\t\twidth:  48px;\n\t\theight: 48px;\n\t}\n\t.comment-avatar .avatar-80, .comment-avatar .avatar-64, .comment-avatar .avatar-48 {\n\t\twidth:  48px;\n\t\theight: 48px;\n\t}\n\n\t.comment-list li li, \n\t.comment-list li li li,  \n\t.comment-list li li li li   { margin-left: $base-line-height;  }\n\n}\nsection.post-content { margin-top:0; }\n.post-content {\n\tfigure {\n\t\tposition: relative;\n\t\ttext-align: left;\n\t\tmargin: $base-line-height*4 0;\n\t}\n\tfigcaption {\n\t\t@extend .small;\n\t\tcolor: $grey;\n\t\ttext-align: left;\n\t\tmargin: $base-line-height*2 $base-line-height*4 $base-line-height*2; \n\t}\n}\n\n @media (min-width: 993px) { \n\t.single-post:not(.sidebar-l):not(.sidebar-r):not(.sidebar-lr) {\n\t\t.post-content {\n\t\t\tfigure {\n\t\t\t\timg { width: 70%; left:0; display: inline-block; }\n\t\t\t\tfigcaption {\n\t\t\t\t\tposition: absolute;\n\t\t\t\t\tright: 0;\n\t\t\t\t\twidth: 15rem;\n\t\t\t\t\ttext-align: left;\n\t\t\t\t\tbottom: 0;\n\t\t\t\t\tmargin-top: 0;\n\t\t\t\t\tmargin-left: 2rem;\n\t\t\t\t\tmargin-bottom: 0;\n\t\t\t\t}\n\t\t\t\tfigcaption::before {\n\t\t\t\t\tcontent: '';\n\t\t\t\t\tborder-top: 3px solid $black;\n\t\t\t\t\twidth: 4rem;\n\t\t\t\t\tdisplay: block;\n\t\t\t\t\tmargin-bottom: 2rem\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t}\n}",
+			"post-na",
+			"pingba",
+			"edit",
+			"comments-reply",
+			"post-author",
+			"tabs",
+			"bread",
+			"comment-edit-btn",
+			"comment-edit-btn btn btn-skin",
+			"comment-edit-btn ",
+			"comment",
+			".comment-reply",
+			"customizr",
+			"pi",
+			"pre",
+			"color: $white",
+			"entry-title",
+			"article-content",
+			"article-conte",
+			"text-align: right",
+			"text-align:right",
+			"text-qlign:right",
+			"branding",
+			"post-type",
+			"entry-footer",
+			" entry-content__holder",
+			"btn",
+			"branding",
+			"0.5",
+			"service",
+			"footer",
+			"Link",
+			"dropdown",
+			"inverted"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"h5",
+			"h6",
+			"$primary",
+			"$secondary",
+			"",
+			"class=\"btn-edit\"><i class=\"icn-edit\"></i>",
+			"btn-edit",
+			"action-link",
+			"comment-edit-btn btn btn-small",
+			"",
+			" ",
+			"<input type=\"hidden\" name=\"comment_parent\" id=\"comment_parent\" value=\"0\">\n<a href=\"#\" class=\"comment-cancel-link\">Cancel</a>",
+			"<span>Reply</span><span>Your Reply</span>",
+			"<div class=\"post-action\">",
+			"lass=\"post-action\"",
+			"",
+			"col-md-10",
+			"</h2>",
+			" <h2 class=\"entry-title\">",
+			"grey"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_sass/_base.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 18.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Works/web/web-fonts-sources/webfonts.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
