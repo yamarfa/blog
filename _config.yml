@@ -8,8 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
-  tag_page_layout: tag
-  tag_page_dir: blog/tags
+  categories:
+    title: categories
+    output: true
 email: 
 baseurl: 
 paginate: 5
