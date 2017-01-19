@@ -1,17 +1,7 @@
 
 .preview__link h2 {
     
-    &::after {
-        content: '';
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        width: 0%;
-        background-color: transparent;
-        border-bottom: 3px solid #13ebb6;
-        @include transition(all, .3s ease); 
-
-    }
+    @include underline_simple (transparent, 2px);
     &:hover:after {
       background-color: red;
   
