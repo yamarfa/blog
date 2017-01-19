@@ -1,5 +1,5 @@
 <div class="tab">
-  <ul class="cards">
+  <ul class="cards">{{site.categories}}
     {% for category in site.categories %}
       {% assign cat_name = category | first %}
       <li class="card">
