@@ -1,7 +1,15 @@
-.uppercase {
-  text-transform: uppercase;
-}
 
+.preview_link h2 {
+    @include underlined_simple (transparent, 2px);
+    &::before {
+         @include transition(all, .3s ease); @include transform(scale(0)); 
+    }
+    &:hover {
+      color:#000;
+      background-color: transparent;
+  
+    }
+}
 .preview__date, .preview__excerpt  {
     color: $color-grey-light;
       font-size: 89%;

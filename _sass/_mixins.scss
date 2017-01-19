@@ -1,3 +1,35 @@
+//vendor transitions mixins
+// Usage:   @include transition(width, height 0.3s ease-in-out);
+@mixin transition($transitions...) {
+  $unfoldedTransitions: ();
+  @each $transition in $transitions {
+    $unfoldedTransitions: append($unfoldedTransitions, unfoldTransition($transition), comma);
+  }
+  
+  -webkit-transition: $unfoldedTransitions;
+  transition: $unfoldedTransitions;
+}
+
+@mixin transform ($transforms) {
+  -webkit-transform: $transforms;
+  -moz-transform: $transforms;
+  -ms-transform: $transforms;
+  transform: $transforms;
+}
+
+@mixin underlined_simple ($color, $height) {
+  &:before {
+      content: "";
+      position: absolute;
+      width: 100%;
+      height: $height;
+      bottom: 0;
+      left: 0;
+      visibility: visible;
+      background-color: $color;
+      @include transform( scaleX(1) );
+   }
+} 
 /**
  * Underline Slide from left and back
  */
