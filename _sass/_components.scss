@@ -104,7 +104,9 @@
 
   &:hover {
     background-color: $color-alpha--light;
-
+    &__date,  &__excerpt {
+      color: $color-black;
+    }
     .preview__more {
       box-shadow: inset 175px 0 0 0 $color-alpha;
       color: $color-white;
