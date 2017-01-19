@@ -22,21 +22,23 @@
     </header>
 
     <div class="tab">
-      {% for tag in site.tags %}
-  {% assign t = tag | first %}
-  {% assign posts = tag | last %}
+      {% assign ordered_tags = site.tags | sort %}
 
-{{ t | downcase }}
-<ul>
-{% for post in posts %}
-  {% if post.tags contains t %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
-  </li>
-  {% endif %}
-{% endfor %}
-</ul>
+{% for tag in ordered_tags %}
+  {% assign t = tag | first %}
+  {% assign post_data = tag | last %}
+
+  <h2>{{ t | camelize | replace: "-", " " }}</h2>
+
+  <ul class="archive">
+    {% for p in post_data %}
+        <li>
+          <small>{{ p.date | date: "%Y/%m/%d" }}</small> -
+          <a href="{{ site.baseurl }}{{ p.url }}"></a>
+        </li>
+    {% endfor %}
+  </ul>
+
 {% endfor %}
       <ul itemscope itemtype="http://schema.org/Blog">
         {% for post in site.tags[page.title] %}
