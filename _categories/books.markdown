@@ -1,6 +1,6 @@
 ---
 title: Books
-permalink: /categories/books/
+permalink: "/categories/books/"
 layout: default
 ---
 
