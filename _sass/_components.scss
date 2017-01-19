@@ -1,4 +1,18 @@
 /**
+*Tags*
+**/
+.tags li {
+  font-family: $font-post;
+  font-size: 75%;
+  padding: 1em;
+  border: 1px solid $color-alpha;
+  border-radius: 50%;
+  a {
+     color: $color-alpha;
+  }
+}
+
+/**
  * Tabs
  * On the Blog page for posts and categories
  */
