@@ -9,3 +9,7 @@ image: "/blog/uploads/6.jpg"
 ---
 
 Два шрифта одной революции
+
+Editing content on Voog works just about how you’d expect. Drag and drop pre-made elements into editable areas, and go.
+Where Voog shines is in the implementation of… well, everything else, but especially the multilingual system. Adding a language is as simple as clicking the “Add Language” button next to the language picker. From there, you can configure the default language, choose whether or not to import content from the same page in another language, and more.
+Naturally, all templates come with a language picker, and you can (and should) implement it in any custom theme. Speaking of which, the custom theme editor is amazing.
