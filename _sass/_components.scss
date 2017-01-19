@@ -439,7 +439,7 @@
   }
 
   &__card {
-    @include box-shadow(1px);
+    @include box-shadow(1px, $color-alpha--light);
 
     display: flex;
     flex-direction: column;
