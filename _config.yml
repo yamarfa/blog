@@ -9,10 +9,10 @@ collections:
     title: Uploads
     output: true
   categories:
-    title: categories
+    title: Categories
     output: true
   tags:
-    title: tags
+    title: tTags
     output: true
 future: true
 email: 
