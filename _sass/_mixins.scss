@@ -27,7 +27,7 @@
       left: 0;
       visibility: visible;
       background-color: $color;
-      @include transform( scaleX(1) );
+      @include transform( scaleX(0) );
    }
 } 
 /**

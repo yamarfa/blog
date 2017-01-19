@@ -10,7 +10,7 @@
         background-color: transparent;
         border-bottom: 3px solid #13ebb6;
         @include transition(all, .3s ease); 
-        @include transform(scale(0)); 
+
     }
     &:hover:after {
       background-color: red;
@@ -110,7 +110,7 @@
 
   &:hover {
     background-color: $color-alpha--light;
-    &__excerpt {
+    .preview__excerpt {
       color: $color-black;
     }
     .preview__more {
