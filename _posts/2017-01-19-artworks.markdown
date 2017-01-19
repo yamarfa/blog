@@ -5,10 +5,8 @@ categories:
 - books
 - art
 tags:
-- text
+- literature
 - artbooks
-- readlinglist
-- thoughts
 image: "/blog/uploads/Screen%20Shot%202017-01-19%20at%2010.50.40.png"
 author: Juls
 ---
