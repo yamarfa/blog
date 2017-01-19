@@ -1,4 +1,23 @@
 <div class="tab">
+{% assign ordered_tags = site.tags | sort %}
+
+{% for tag in ordered_tags %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
+
+  <h2>{{ t | camelize | replace: "-", " " }} ( {{  posts | size }} )</h2>
+
+  <ul class="archive">
+    {% for p in posts %}
+        <li>
+          <small>{{ p.date | date: "%Y/%m/%d" }}</small> -
+          <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+        </li>
+    {% endfor %}
+  </ul>
+
+{% endfor %}
+
 <ul class="tags">
 {% for tag in site.tags %}
   {% assign t = tag | first %}
@@ -6,4 +25,5 @@
   <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
 {% endfor %}
 </ul>
+
 </div>
