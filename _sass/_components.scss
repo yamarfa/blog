@@ -18,7 +18,7 @@
 /**
 *services texts styling
 **/
-.foter__archive, .tabs, .archives__header, .nav--black {
+.footer__archive, .tabs, .archives__header, .nav--black {
     @extend %letter-spacing;
     @extend .service-text;
 }
