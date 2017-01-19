@@ -167,17 +167,14 @@
 .card {
 
   &__link {
-    @include box-shadow(1px);
-
+    @include box-shadow(1px, $color-alpha--light);
     position: relative;
-
     display: block;
-
     background-color: $color-white;
-    transition: background-color 0.2s ease-in-out;
+    @include transition (all 0.3s ease-in-out);
 
     &:after {
-      @include box-shadow(3px);
+      @include box-shadow(2px);
 
       content: '';
       position: absolute;
