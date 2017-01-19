@@ -373,9 +373,6 @@
     &:active,
     &:focus {
       color: $color-black;
-      svg {
-        fill: red;
-      }
     }
     .icon {
           margin-right: 1em;
