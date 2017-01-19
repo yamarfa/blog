@@ -29,6 +29,9 @@ profile_img:
 profile: 
 social:
   github: 
+  twitter: 
+  instagram: 
+  pinterest: 
 include:
 - _categories
 - _tags
