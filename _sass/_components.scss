@@ -1,13 +1,4 @@
 
-.preview__link h2 {
-    
-    @include underlined_simple (transparent, 2px);
-    &:after:hover {
-      background-color: red;
-  
-    }
-}
-
 /**
 *Tags*
 **/
@@ -106,6 +97,7 @@
 
   &:hover {
     background-color: $color-alpha--light;
+    .preview__header:after { background-color: red; }
     .preview__excerpt {
       color: $color-black;
     }
@@ -143,6 +135,7 @@
 
   &__header {
     /*color: $color-alpha; */
+      @include underlined_simple (transparent, 2px);
       color: $color-black;
       margin-bottom: 0.5em;
   }
