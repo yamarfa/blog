@@ -5,8 +5,7 @@
   font-family: $font-post;
   font-size: 75%;
   padding: 1em;
-  border: 1px solid $color-alpha;
-  border-radius: 50%;
+  display: inline-block;
   a {
      color: $color-alpha;
   }
