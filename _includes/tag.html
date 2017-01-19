@@ -17,11 +17,29 @@
     <header>
       <ul class="tabs">
         <li class="tabs__item">{{ page.title }}</li>
-        <li class="tabs__item">Tags</li>
+        <li class="tabs__item">All Tags</li>
       </ul>
     </header>
 
     <div class="tab">
+      {% assign ordered_tags = site.tags | sort %}
+
+{% for tag in ordered_tags %}
+  {% assign t = tag | first %}
+  {% assign post_data = tag | last %}
+
+  <h2>{{ t | camelize | replace: "-", " " }}</h2>
+
+  <ul class="archive">
+    {% for p in post_data %}
+        <li>
+          <small>{{ p.date | date: "%Y/%m/%d" }}</small> -
+          <a href="{{ site.baseurl }}{{ p.url }}"></a>
+        </li>
+    {% endfor %}
+  </ul>
+
+{% endfor %}
       <ul itemscope itemtype="http://schema.org/Blog">
         {% for post in site.tags[page.title] %}
           <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
@@ -38,7 +56,7 @@
       {% include archive-link.html %}
     </div>
 
-    {% include categories-tab.html %}
+    {% include taglist-tab.html %}
 
   </div>
 

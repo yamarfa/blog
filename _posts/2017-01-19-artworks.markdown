@@ -3,6 +3,7 @@ title: Books
 date: 2017-01-19 09:50:00 +01:00
 tags:
 - literature
+- art
 image: "/blog/uploads/Screen%20Shot%202017-01-19%20at%2010.50.40.png"
 ---
 
