@@ -1,5 +1,5 @@
 
-.preview_link h2 {
+.preview__link h2 {
     @include underlined_simple (transparent, 2px);
     &::before {
          @include transition(all, .3s ease); 
@@ -13,7 +13,7 @@
 }
 .preview__date, .preview__excerpt  {
     color: $color-grey-light;
-      font-size: 89%;
+    font-size: 89%;
 
 }
 
