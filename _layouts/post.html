@@ -27,7 +27,13 @@ layout: default
   </section>
 
   <section class="post post-meta">
-      {% include tags.html %}
+      <ul class="tags">
+        {% for tag in page.tags %}
+          <li>
+            <a href="/{{ site.baseurl }}/tags/{{ tag | first | downcase | slugify }}/">{{ tag }}</a>
+          </li>
+        {% endfor %}
+      </ul>
   </section>
   
   {% if site.profile %}
