@@ -387,6 +387,11 @@
   }
 }
 
+.archives__container {
+  width: 90%;
+  max-width: $mq-md;
+  margin: 0 auto;
+}
 /**
  * Post
  */
