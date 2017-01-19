@@ -97,7 +97,7 @@
 
   &:hover {
     background-color: $color-alpha--light;
-    .preview__header::after { background-color: red; @include transform(scale(1)); }
+    .preview__header::after { background-color: $color-alpha; @include transform(scale(1)); }
     .preview__excerpt {
       color: $color-black;
     }
@@ -135,7 +135,10 @@
 
   &__header {
     /*color: $color-alpha; */
+       position: relative;
+      display: inline-block;
       @include underlined_simple (transparent, 2px);
+      @include transition(all, 0.6s ease-in-out);
       color: $color-black;
       margin-bottom: 0.5em;
   }
