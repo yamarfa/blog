@@ -5,7 +5,7 @@ categories:
 - text
 tags:
 - design
-image: "/uploads/bg--hands-people-woman-working.jpg"
+image: "/blog/uploads/bg--hands-people-woman-working.jpg"
 ---
 
 ![bg--hands-people-woman-working.jpg](/blog/uploads/bg--hands-people-woman-working.jpg)
