@@ -7,11 +7,10 @@
 
   <h2>{{ t | camelize | replace: "-", " " }} ( {{  posts | size }} )</h2>
 
-  <ul class="archive">
+  <ul class="tag-pingbacks">
     {% for p in posts %}
         <li>
-          <small>{{ p.date | date: "%Y/%m/%d" }}</small> -
-          <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+          <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>, <small>{{ p.date | date: "%Y/%m/%d" }}</small>
         </li>
     {% endfor %}
   </ul>
