@@ -40,11 +40,12 @@
  */
  header .tabs {
   border-bottom: 1px solid $color-grey-light;
+  font-family: $font-post;
+  @extend .small;
  }
 .tabs {
   @extend %letter-spacing;
-  font-family: $font-post;
-  @extend .small;
+
   display: flex;
   justify-content: space-around;
   padding: 1em;
