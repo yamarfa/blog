@@ -25,9 +25,13 @@ description:
             {% endif %}
           </div>
           <div class="card__container">
-            <header class="card__header">{% if post.categories.size > 0 %}
-                in {{ post.categories | join: ', ' }}
-              {% endif %}</header>
+            <header class="card__header">
+            <span class="small uppercase">
+            {% if post.categories.size > 0 %}
+                {{ post.categories | join: ', ' }}
+              {% endif %}
+              </span>
+            </header>
             <h2 class="card__title" itemprop="name">{{ post.title }}</h2>
             <p class="card__count" itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">
               {{ post.date | date: "%b %-d, %Y" }}
