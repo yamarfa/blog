@@ -97,7 +97,7 @@
 
   &:hover {
     background-color: $color-alpha--light;
-    .preview__header:after { background-color: red; }
+    .preview__header::after { background-color: red; @include transform(scale(1)); }
     .preview__excerpt {
       color: $color-black;
     }
