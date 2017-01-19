@@ -174,7 +174,7 @@
     @include transition (all 0.3s ease-in-out);
 
     &:after {
-      @include box-shadow(2px);
+      @include box-shadow(2px, $color-alpha--light);
 
       content: '';
       position: absolute;
@@ -439,7 +439,7 @@
   }
 
   &__card {
-    @include box-shadow(1px);
+    @include box-shadow(1px, $color-alpha--light);
 
     display: flex;
     flex-direction: column;
