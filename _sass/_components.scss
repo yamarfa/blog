@@ -129,9 +129,10 @@
       padding-right: 10em;
     }
   }
-
+   &__date {
+     font-family: $font-post;
+   }
   &__date,  &__excerpt  {
-    font-family: $font-post;
     color: $color-grey-light;
     font-size: 89%;
   }
