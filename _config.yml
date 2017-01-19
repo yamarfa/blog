@@ -8,9 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-  artbooks:
-    title: artbooks
-    output: true
+  tag_page_layout: tag
+  tag_page_dir: blog/tags
 email: 
 baseurl: 
 paginate: 5
