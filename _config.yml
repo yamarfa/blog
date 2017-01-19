@@ -1,7 +1,6 @@
 ---
 title: Perfectly something
 timezone: Europe/Paris
-future: true
 collections:
   posts:
     title: Posts
@@ -15,6 +14,7 @@ collections:
   tags:
     title: tags
     output: true
+future: true
 email: 
 baseurl: 
 paginate: 5
