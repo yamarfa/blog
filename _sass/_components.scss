@@ -1,8 +1,8 @@
 
 .preview__link h2 {
     
-    @include underline_simple (transparent, 2px);
-    &:hover:after {
+    @include underlined_simple (transparent, 2px);
+    &:after:hover {
       background-color: red;
   
     }

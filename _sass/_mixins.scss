@@ -18,7 +18,7 @@
 }
 
 @mixin underlined_simple ($color, $height) {
-  &:before {
+  &:after {
       content: "";
       position: absolute;
       width: 100%;
