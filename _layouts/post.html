@@ -15,7 +15,7 @@ layout: default
       <h1 itemprop="name headline">{{ page.title }}</h1>
       {% if page.categories.size > 0 %}
         <span>
-          Posted in <ul class="tags">
+          Posted in <ul class="tags uppercase">
               <li><a class="uppercase" href="{{ site.baseurl }}/category/{{ category | first | downcase | slugify }}/">{{ page.categories | join: ', ' }}</a></li>
               </ul>
         </span>
