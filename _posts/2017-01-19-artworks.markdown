@@ -12,6 +12,8 @@ image: "/blog/uploads/Screen%20Shot%202017-01-19%20at%2010.50.40.png"
 author: Juls
 ---
 
+Books about debut du siecle artistic literary circles.
+
 1. Владислав Ходасевич. «Некрополь»
 2. Георгий Иванов. «Петербургские зимы», «Китайские тени»
 3. Ирина Одоевцева. «На берегах Невы» 
