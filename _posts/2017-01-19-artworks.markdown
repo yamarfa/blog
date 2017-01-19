@@ -5,8 +5,9 @@ categories:
 - books
 - art
 tags:
-- art
-- books
+- text
+- artbooks
+- readlinglist
 image: "/blog/uploads/Screen%20Shot%202017-01-19%20at%2010.50.40.png"
 author: Juls
 ---
