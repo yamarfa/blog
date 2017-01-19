@@ -11,6 +11,9 @@ collections:
   categories:
     title: categories
     output: true
+  tags:
+    title: tags
+    output: true
 email: 
 baseurl: 
 paginate: 5
