@@ -39,9 +39,10 @@
  * On the Blog page for posts and categories
  */
  header .tabs {
-  border-bottom: 1px solid $color-grey-light;
+  border-bottom: 1px solid $color-alpha--light;
   font-family: $font-post;
   @extend .small;
+  @extend .bold;
  }
 .tabs {
   @extend %letter-spacing;
