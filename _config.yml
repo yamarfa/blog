@@ -42,5 +42,4 @@ sass:
 gems:
 - jekyll-paginate
 - jekyll-sitemap
-- jekyll-tagging
 - octopress-autoprefixer
