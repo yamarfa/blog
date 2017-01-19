@@ -3,12 +3,12 @@
 
 {% for tag in ordered_tags %}
   {% assign t = tag | first %}
-  {% assign post_data = tag | last %}
+  {% assign posts = tag | last %}
 
-  <h2>{{ t | camelize | replace: "-", " " }} ({{  post_data | size }})</h2>
+  <h2>{{ t | camelize | replace: "-", " " }} ( {{  posts | size }} )</h2>
 
   <ul class="archive">
-    {% for p in post_data %}
+    {% for p in posts %}
         <li>
           <small>{{ p.date | date: "%Y/%m/%d" }}</small> -
           <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
@@ -17,6 +17,7 @@
   </ul>
 
 {% endfor %}
+
 <ul class="tags">
 {% for tag in site.tags %}
   {% assign t = tag | first %}
@@ -24,4 +25,5 @@
   <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
 {% endfor %}
 </ul>
+
 </div>
