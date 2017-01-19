@@ -1,4 +1,4 @@
-<ul>
+<ul class="tags">
   {% for tag in page.tags %}
     <li>
       <a href="/{{ site.tag_page_dir }}/{{ tag | slugify: 'pretty' }}/">{{ tag }}</a>
