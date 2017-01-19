@@ -373,11 +373,16 @@
     &:active,
     &:focus {
       color: $color-black;
+      .icon {
+          margin-right: 1em;
+          margin-top: 0.5em;
+      }
+      svg {
+        @include transform(rotate(180deg));
+        transform-origin: center;
     }
-    svg {
-      @include transform(rotate(180deg));
-      transform-origin: center;
     }
+   
   }
 
   &--white {
