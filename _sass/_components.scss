@@ -127,6 +127,7 @@
   }
    &__date {
      font-family: $font-post;
+     display: block;
    }
   &__date,  &__excerpt  {
     color: $color-grey-light;
