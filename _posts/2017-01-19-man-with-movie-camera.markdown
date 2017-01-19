@@ -1,6 +1,8 @@
 ---
 title: Man with movie camera
 date: 2017-01-19 18:28:00 +01:00
+categories:
+- art
 tags:
 - art
 - cinema
