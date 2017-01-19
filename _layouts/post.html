@@ -34,7 +34,7 @@ layout: default
       <ul class="tags">
         {% for tag in page.tags %}
           <li>
-            <a href="{{ site.baseurl }}/tag/{{tag | slugize}}/">{{ tag }}</a>
+            <a href="{{ site.baseurl }}/tag/{{ tag | first | slugify }}/">{{ tag }}</a>
           </li>
         {% endfor %}
       </ul>
