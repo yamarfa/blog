@@ -2,7 +2,7 @@
     <ul class="tags">
      [
         {% for tag in site.tags %}
-        <li>{{ tag | first }}"{% unless forloop.last %},{% endunless %}</li>
+        <li><a href="">{{ tag | first }} {% unless forloop.last %},{% endunless %} </a></li>
         {% endfor %}
     ]
 }
