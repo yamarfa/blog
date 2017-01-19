@@ -16,7 +16,7 @@ layout: default
       {% if page.categories.size > 0 %}
         <span>
           Posted in <ul class="tags uppercase">
-              <li><a href="{{ site.baseurl }}/category/{{ category | first | downcase | slugify }}/">{{ page.categories | join: ', ' }}</a></li>
+              <li><a href="#">{{ page.categories | join: ', ' }}</a></li>
               </ul>
         </span>
       {% endif %}
@@ -28,11 +28,11 @@ layout: default
     {{ content }}
   </section>
 
-  <section class="post post-meta">vdb fnrt te
+  <section class="post post-meta">
       <ul class="tags">
         {% for tag in page.tags %}
           <li>
-            <a href="/{{ site.baseurl }}/tags/#{{tag|slugize}}/">{{ tag }}</a>
+            <a href="#">{{ tag }}</a>
           </li>
         {% endfor %}
       </ul>
