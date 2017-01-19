@@ -8,7 +8,7 @@ collections:
   posts:
     title: Posts
     output: true
-  tags:
+  tag:
     title: Tags
     output: true
   uploads:
