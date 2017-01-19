@@ -6,10 +6,13 @@
 **/
 .tags li {
   font-family: $font-post;
-  font-size: 75%;
-  padding: 1em;
   display: inline-block;
-  a {
+  padding: 1em 1em 1em 0;
+  li+li {
+    1em;
+  }
+  a { color: $color-black; }
+  a:hover {
      color: $color-alpha;
   }
 }
