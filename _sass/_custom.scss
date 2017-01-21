@@ -1,9 +1,27 @@
+.bg { background-color: $color-alpha--light; }
+/**
+*Tags*
+**/
+.tag-list 
+    li {
+      font-family: $font-post;
+      display: inline-block;
+      padding: 1em 1em 1em 0;
+      li+li {
+        padding-left: 1em;
+      }
+      a { color: $color-black; }
+      a:hover {
+         color: $color-alpha;
+      }
+}
+
 .tags {
 		padding: 4em 8em;
 		li {border-bottom: 1px solid #f7f8f9;  }
 		&--titles {
-			h6 { font-family: $font-post; 
-				a { color: $color-grey--light; }
+			h6 { font-family: $font-post; @include underlined_simple ($color-alpha, 2px);
+				a {  }
 			}
 		}
 		&--posts {
@@ -11,7 +29,7 @@
 		  		&:not(:last-of-type) {
 			   			
 					}
-			  	   a {
+			  	   a {color: $color-grey--light;
 					    font-weight: 600;
 					    font-family: $font-header;
 					}
