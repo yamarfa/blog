@@ -1,6 +1,8 @@
 ---
 title: New post
 date: 2017-01-19 20:13:00 +01:00
+categories:
+- design
 tags:
 - thoughts
 - design
