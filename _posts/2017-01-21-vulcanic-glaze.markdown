@@ -5,7 +5,7 @@ categories:
 - ceramic
 tags:
 - glaze
-image: "/blog/uploads/f196d9719850b8ba55680e2fef2f4397.jpg"
+image: "/blog/uploads/iceland-Bjarni%20Sigurdsson-gardenista-2-e1468022270609.jpg"
 ---
 
 To create the volcanic reaction, create a slip using the same clay body your pot is made from. For every 100 grams of wet slip, add 10 grams of silicon carbide or barium sulphate. Sieve into a 300 mesh sieve. Mix and apply where you wish the froth to take place.
@@ -21,7 +21,6 @@ Use the recipe below and glaze your pot as normal. The recipe will create a butt
     Vanadium Oxide 5
 
 Once the glaze has been applied and you are ready to fire, careful watching of the kiln near the maturing point is essential to achieve the froth. Viewing the glaze through the peephole will allow you to see when the kiln should be turned off. You will see an orange peel affect and even some popping of the glaze. This is when the temperature should be reduced.
-![iceland-Bjarni Sigurdsson-gardenista-2-e1468022270609.jpg](/blog/uploads/iceland-Bjarni%20Sigurdsson-gardenista-2-e1468022270609.jpg)
 
 **Marilee’s Lava Glaze Cone 6, oxidation or reduction**
 Glaze Material	
