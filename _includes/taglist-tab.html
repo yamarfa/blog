@@ -12,7 +12,7 @@
           <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>, <small>{{ p.date | date: "%d.%m.%Y" }}</small>
         </li>
     {% endfor %}
-  </ul>
+  </ol>
 
 {% endfor %}
 <!--
@@ -24,4 +24,5 @@
 {% endfor %}
 </ul>
 -->
+{% include archive-link.html %}
 </div>
