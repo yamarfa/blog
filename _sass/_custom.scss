@@ -21,6 +21,8 @@
 		li {border-bottom: 1px solid #f7f8f9;  }
 		&--titles {
 			h6 { font-family: $font-post; @include underlined_simple ($color-alpha, 2px);
+				position:relative;
+				display:inline-block;
 				a {  }
 			}
 		}
@@ -29,7 +31,12 @@
 		  		&:not(:last-of-type) {
 			   			
 					}
-			  	   a {color: $color-grey--light;
+					&:hover {
+						a:after {
+ 							background-color: $$color-alpha;
+						}
+					}
+			  	   a {  @include underlined_simple (transparent, 2px);
 					    font-weight: 600;
 					    font-family: $font-header;
 					}
