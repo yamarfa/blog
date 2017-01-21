@@ -1,14 +1,17 @@
 .tag-pingbaks li {
   padding: 1.25em 0; 
    li:not(:last-of-type) {
-    border-bottom: 1px solid #f7f8f9; }
+    border-bottom: 1px solid #f7f8f9; 
 	}
   li a {
     font-weight: 600;
-    border-bottom: 1px solid; }
- li sup {
+    border-bottom: 1px solid; 
+	}
+ 	li sup {
     color: #B4B4B4;
-    top: -1.25em; }
+    top: -1.25em; 
+	}
    li a {
     color: #202020; 
-}}
+	}
+}
