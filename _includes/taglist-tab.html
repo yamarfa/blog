@@ -6,13 +6,13 @@
   {% assign posts = tag | last %}
 
   <h6 class="small uppercase"><a href="{{ site.baseurl }}/{{ t.url }}">{{ t | camelize | replace: "-", " " }} ( {{ posts | size }} )</a></h6>
-  <ol class="tag-pingbacks">
+  <ul class="tag-pingbacks">
     {% for p in posts %}
         <li>
           <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>, <small>{{ p.date | date: "%d.%m.%Y" }}</small>
         </li>
     {% endfor %}
-  </ol>
+  </ul>
 
 {% endfor %}
 <!--
