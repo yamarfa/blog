@@ -18,7 +18,7 @@ layout: default
           Posted in <ul class="tags uppercase">
           {% for category in page.categories %} 
              {% assign cat_name = category | first %}
-              <li><a href="{{ site.baseurl }}/category/{{ category | first | downcase | slugify }}/">{{ category }}</a></li>
+              <li><a href="{{ site.baseurl }}/category/{{ category | first | downcase | slugify }}/">{{ page.category }}</a></li>
           {% endfor %}   
              </ul>
         </span>
