@@ -2,7 +2,7 @@
 title: Engobes velvet
 date: 2017-01-21 15:21:00 +01:00
 categories:
-- ceramics
+- ceramic
 tags:
 - glaze
 image: "/blog/uploads/f196d9719850b8ba55680e2fef2f4397.jpg"
