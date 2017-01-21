@@ -2,7 +2,7 @@
 title: Perfectly something
 timezone: Europe/Paris
 collections:
-  categories:
+  category:
     title: Categories
     output: true
   posts:
