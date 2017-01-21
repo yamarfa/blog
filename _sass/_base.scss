@@ -4,6 +4,7 @@
 $font-header: 'Poppins', sans-serif;
 $font-body: 'Work Sans', sans-serif;
 $font-post: 'Karla', sans-serif;
+$font-mono: 'Roboto Mono', monospace;
 
 $color-alpha: #13ebb6;
 $color-alpha--light: #f5f5f5;
@@ -102,7 +103,9 @@ img {
   width: 100%;
   max-width: 100%;
 }
-
+pre {
+  font-family: $font-mono;
+}
 ol, ul {
   margin: 0;
   padding: 0;
