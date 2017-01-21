@@ -9,7 +9,7 @@
   <ol class="tag-pingbacks">
     {% for p in posts %}
         <li>
-          <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>, <small>{{ p.date | date: ".%d.%m.%Y" }}</small>
+          <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>, <small>{{ p.date | date: "%d.%m.%Y" }}</small>
         </li>
     {% endfor %}
   </ul>
