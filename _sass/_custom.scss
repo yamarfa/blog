@@ -2,17 +2,16 @@
 		padding: 4em 8em;
 		li {border-bottom: 1px solid #f7f8f9;  }
 		&--titles {
-			h6 { font-family: $font-post; border-bottom: 1px solid $color-grey; }
+			h6 { font-family: $font-post; border-bottom: 1px solid $color-grey--lightest;  }
 		}
 		&--posts {
 			li {
 		  		&:not(:last-of-type) {
-			   			border-bottom: 1px solid $color-grey--lightest; 
+			   			
 					}
 			  	   a {
 					    font-weight: 600;
 					    font-family: $font-header;
-					    border-bottom: 1px solid transparent; 
 					}
 					.small {
 						color: $color-grey--light;
