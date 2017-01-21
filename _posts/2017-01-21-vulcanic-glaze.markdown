@@ -5,3 +5,15 @@ image: "/blog/uploads/f196d9719850b8ba55680e2fef2f4397.jpg"
 ---
 
 ![iceland-Bjarni Sigurdsson-gardenista-2-e1468022270609.jpg](/uploads/iceland-Bjarni%20Sigurdsson-gardenista-2-e1468022270609.jpg)
+
+**Marilee’s Lava Glaze Cone 6, oxidation or reduction**
+Glaze Material	
+Whiting	23.91%
+Custer Feldspar	49.73%
+Edgar Plastic Kaolin (EPK)	13.18%
+Silica (Flint)	13.18%
+Total:	100.00%
+Add:	
+Titanium Dioxide	11.29%
+Silicon Carbide	3.4%
+A very rough glaze; not intended for food surfaces. Fine silicon carbide seems to work best. For a gray to black variation, add 7% Mason stain 6600.
