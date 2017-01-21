@@ -9,4 +9,4 @@ tags:
 
 Velvet underglaze series
 
-![8a3c02dae83f9267c8712306a612712c.jpg](blog/uploads/8a3c02dae83f9267c8712306a612712c.jpg)
+![8a3c02dae83f9267c8712306a612712c.jpg](/blog/uploads/8a3c02dae83f9267c8712306a612712c.jpg)
