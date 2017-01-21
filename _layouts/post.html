@@ -16,7 +16,7 @@ layout: default
       {% if page.categories.size > 0 %}
         <span>
           Posted in <ul class="tags uppercase">
-          {% for cat in page.categories %}
+          {% for cat in page.categories %} 
               <li><a href="{{ site.baseurl }}/category/{{ category | first | downcase | slugify }}/">{{ cat }}</a></li>
           {% endfor %}   
              </ul>
