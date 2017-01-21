@@ -36,11 +36,13 @@
  							background-color: $color-alpha;
 						}
 					}
-			  	   a {  @include underlined_simple (transparent, 2px);
+			  	   a {  
+			  	   		@include underlined_simple (transparent, 2px);
 					    font-weight: 600;
 					    font-family: $font-header;
 					}
 					small {
+						margin-right: 2em;
 						color: $color-grey--light;
 					}
 				}
