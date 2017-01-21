@@ -8,32 +8,43 @@ tags:
 image: "/blog/uploads/f196d9719850b8ba55680e2fef2f4397.jpg"
 ---
 
-![iceland-Bjarni Sigurdsson-gardenista-2-e1468022270609.jpg](/uploads/iceland-Bjarni%20Sigurdsson-gardenista-2-e1468022270609.jpg)
+To create the volcanic reaction, create a slip using the same clay body your pot is made from. For every 100 grams of wet slip, add 10 grams of silicon carbide or barium sulphate. Sieve into a 300 mesh sieve. Mix and apply where you wish the froth to take place.
+
+Use the recipe below and glaze your pot as normal. The recipe will create a buttery glaze matt at cone 9
+
+    Custer Feldspar 50
+    Dolomite 20
+    Cadycal 100 5
+    EPK Kaolin 25
+
+    Colorant
+    Vanadium Oxide 5
+
+Once the glaze has been applied and you are ready to fire, careful watching of the kiln near the maturing point is essential to achieve the froth. Viewing the glaze through the peephole will allow you to see when the kiln should be turned off. You will see an orange peel affect and even some popping of the glaze. This is when the temperature should be reduced.
+![iceland-Bjarni Sigurdsson-gardenista-2-e1468022270609.jpg](/blog/uploads/iceland-Bjarni%20Sigurdsson-gardenista-2-e1468022270609.jpg)
 
 **Marilee’s Lava Glaze Cone 6, oxidation or reduction**
 Glaze Material	
-* Whiting	23.91%
-Custer Feldspar	49.73%
-Edgar Plastic Kaolin (EPK)	13.18%
-Silica (Flint)	13.18%
-Total:	100.00%
+   Whiting	                 23.91%
+   Custer Feldspar	         49.73%
+   Edgar Plastic Kaolin (EPK)	 13.18%
+   Silica (Flint)	         13.18%
+   Total:	                 100.00%
 
 Add:	
-Titanium Dioxide	11.29%
-Silicon Carbide	3.4%
+   Titanium Dioxide	         11.29%
+   Silicon Carbide	          3.4%
 
 A very rough glaze; not intended for food surfaces. Fine silicon carbide seems to work best. For a gray to black variation, add 7% Mason stain 6600.
 
 Bee's crater glaze, cone 8 
-feldspar potash 50
-china clay 25
-whiting 25
-vanadium pentoxide 5
-silicon carbide 5
-lithium carbonate 5
+   Feldspar potash       50
+   China clay            25
+   Whiting               25
+   Vanadium pentoxide    5
+   Silicon carbide       5
+   Lithium carbonate     5
  
 For colour a wee bit of cobalt carbonate and copper oxide does well.
- 
 Apply in the consistency of mayonnaise !
- 
 On a buff stoneware body
