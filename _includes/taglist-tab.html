@@ -1,20 +1,25 @@
-<div class="tab">
+<div class="tab tags" id="tags">
 {% assign ordered_tags = site.tags | sort %}
-
+ 
+<ol class="tags--titles">
 {% for tag in ordered_tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
-  <h2>{{ t | camelize | replace: "-", " " }} ( {{ posts | size }} )</h2>
-  <ol class="tag-pingbacks">
-    {% for p in posts %}
-        <li>
-          <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>, <small>{{ p.date | date: ".%d.%m.%Y" }}</small>
-        </li>
-    {% endfor %}
-  </ul>
-
+ 
+   <li><h6 class="small uppercase"><a href="{{ site.baseurl }}/tag/{{ tag | first | downcase | slugify }}/">#{{ t | camelize | replace: "-", " " }} ( {{ posts | size }} )</a></h6>
+    <ul class="tags--posts">
+      {% for p in posts %}
+          <li>
+            <small>{{ p.date | date: "%d.%m.%Y" }}</small>
+            <a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+          </li>
+      {% endfor %}
+    </ul>
+</li>
 {% endfor %}
+
+</ol>
 <!--
 <ul class="tags">
 {% for tag in site.tags %}

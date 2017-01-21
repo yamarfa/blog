@@ -1,17 +1,53 @@
-.tag-pingbaks li {
-  padding: 1.25em 0; 
-   li:not(:last-of-type) {
-    border-bottom: 1px solid #f7f8f9; 
-	}
-  li a {
-    font-weight: 600;
-    border-bottom: 1px solid; 
-	}
- 	li sup {
-    color: #B4B4B4;
-    top: -1.25em; 
-	}
-   li a {
-    color: #202020; 
-	}
+.bg { background-color: $color-alpha--light; }
+/**
+*Tags*
+**/
+.tag-list 
+    li {
+      font-family: $font-post;
+      display: inline-block;
+      padding: 1em 1em 1em 0;
+      li+li {
+        padding-left: 1em;
+      }
+      a { color: $color-black; }
+      a:hover {
+         color: $color-alpha;
+      }
 }
+
+.tags {
+		padding: 4em 8em;
+		li {border-bottom: 1px solid #f7f8f9;  }
+		&--titles {
+			h6 { font-family: $font-post; @include underlined_simple ($color-alpha, 2px);
+				position:relative;
+				display:inline-block;
+				a {  }
+			}
+		}
+		&--posts {
+			li {
+		  		&:not(:last-of-type) {
+			   			
+				}
+				&:hover {
+					a { @include transition(all, 0.6s ease-in-out); }
+					a::after {
+ 							background-color: $color-alpha;
+					}
+				}
+			  	a {  
+			  	   		@include underlined_simple (transparent, 2px);
+					    font-weight: 600;
+					    font-family: $font-header;
+				}
+				small {
+						margin-right: 2em;
+						color: $color-grey--light;
+					}
+				}
+		}
+	}
+
+

@@ -15,7 +15,7 @@ layout: default
       <h1 itemprop="name headline">{{ page.title }}</h1>
       {% if page.categories.size > 0 %}
         <span>
-          Posted in <ul class="tags uppercase">
+          Posted in <ul class="tag-list uppercase">
           {% assign categories = page.categories | sort %}
           {% for category in categories %} 
              {% assign cat_name = category | first %}
@@ -32,7 +32,7 @@ layout: default
   </section>
 
   <section class="post post-meta">
-      <ul class="tags">
+      <ul class="tags-list">
         {% for tag in page.tags %}
           <li>
             <a href="{{ site.baseurl }}/tag/{{ tag }}/">{{ tag }}</a>
