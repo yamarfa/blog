@@ -7,12 +7,12 @@
 		&--posts {
 			li {
 		  		&:not(:last-of-type) {
-			   			border-bottom: 1px solid $color-grey--light; 
+			   			border-bottom: 1px solid $color-grey--lightest; 
 					}
 			  	   a {
 					    font-weight: 600;
 					    font-family: $font-header;
-					    
+					    border-bottom: 1px solid; 
 					}
 					.small {
 						color: $color-grey--light;
