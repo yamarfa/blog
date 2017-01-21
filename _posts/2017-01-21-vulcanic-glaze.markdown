@@ -16,34 +16,34 @@ Use the recipe below and glaze your pot as normal. The recipe will create a butt
     Dolomite 20
     Cadycal 100 5
     EPK Kaolin 25
-
+    
     Colorant
     Vanadium Oxide 5
 
 Once the glaze has been applied and you are ready to fire, careful watching of the kiln near the maturing point is essential to achieve the froth. Viewing the glaze through the peephole will allow you to see when the kiln should be turned off. You will see an orange peel affect and even some popping of the glaze. This is when the temperature should be reduced.
 
 **Marilee’s Lava Glaze Cone 6, oxidation or reduction**
-Glaze Material	
-   Whiting	                 23.91%
-   Custer Feldspar	         49.73%
-   Edgar Plastic Kaolin (EPK)	 13.18%
-   Silica (Flint)	         13.18%
-   Total:	                 100.00%
+Glaze Material
+Whiting                   23.91%
+Custer Feldspar           49.73%
+Edgar Plastic Kaolin (EPK)    13.18%
+Silica (Flint)            13.18%
+Total:                    100.00%
 
-Add:	
-   Titanium Dioxide	         11.29%
-   Silicon Carbide	          3.4%
+Add:
+Titanium Dioxide          11.29%
+Silicon Carbide            3.4%
 
 A very rough glaze; not intended for food surfaces. Fine silicon carbide seems to work best. For a gray to black variation, add 7% Mason stain 6600.
 
-Bee's crater glaze, cone 8 
-   Feldspar potash       50
-   China clay            25
-   Whiting               25
-   Vanadium pentoxide    5
-   Silicon carbide       5
-   Lithium carbonate     5
- 
+Bee's crater glaze, cone 8
+Feldspar potash       50
+China clay            25
+Whiting               25
+Vanadium pentoxide    5
+Silicon carbide       5
+Lithium carbonate     5
+
 For colour a wee bit of cobalt carbonate and copper oxide does well.
 Apply in the consistency of mayonnaise !
 On a buff stoneware body
