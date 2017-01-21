@@ -6,6 +6,7 @@ categories:
 tags:
 - thoughts
 image: "/blog/uploads/bg--hands-people-woman-working.jpg"
+layout: default
 ---
 
 ![bg--hands-people-woman-working.jpg](/blog/uploads/bg--hands-people-woman-working.jpg)
