@@ -4,6 +4,7 @@ date: 2017-01-19 20:13:00 +01:00
 tags:
 - thoughts
 - design
+layout: post
 ---
 
 Editing content on Voog works just about how you’d expect. Drag and drop pre-made elements into editable areas, and go.
