@@ -1,14 +1,12 @@
-#tags {
-	.tags {
+.tags {
 		padding: 4em 8em;
-		li { }
+		li {border-bottom: 1px solid #f7f8f9;  }
 		&--titles {
-			li { font-family: $font-post; }
+			h6 { font-family: $font-post; }
 		}
 		&--posts {
 			li {
-					 
-			   		&:not(:last-of-type) {
+		  		&:not(:last-of-type) {
 			   			border-bottom: 1px solid #f7f8f9; 
 					}
 			  	   a {
@@ -22,5 +20,5 @@
 				}
 		}
 	}
-}
+
 
