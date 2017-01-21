@@ -33,7 +33,7 @@
 					}
 					&:hover {
 						a:after {
- 							background-color: $$color-alpha;
+ 							background-color: $color-alpha;
 						}
 					}
 			  	   a {  @include underlined_simple (transparent, 2px);
