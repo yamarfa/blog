@@ -2,17 +2,18 @@
 /**
 *Tags*
 **/
-.tags li {
-  font-family: $font-post;
-  display: inline-block;
-  padding: 1em 1em 1em 0;
-  li+li {
-    padding-left: 1em;
-  }
-  a { color: $color-black; }
-  a:hover {
-     color: $color-alpha;
-  }
+.tag-list 
+    li {
+      font-family: $font-post;
+      display: inline-block;
+      padding: 1em 1em 1em 0;
+      li+li {
+        padding-left: 1em;
+      }
+      a { color: $color-black; }
+      a:hover {
+         color: $color-alpha;
+      }
 }
 
 /**
