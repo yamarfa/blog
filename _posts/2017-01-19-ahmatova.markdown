@@ -1,7 +1,7 @@
 ---
 title: Avantgard
 date: 2017-01-19 15:54:00 +01:00
-tags:
+categories:
 - art
 image: "/blog/uploads/Screen%20Shot%202017-01-19%20at%2010.50.41.png"
 ---
