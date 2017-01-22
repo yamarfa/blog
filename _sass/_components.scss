@@ -82,8 +82,7 @@
   &:hover {
      background-color: $color-alpha--light;
     .preview__header { 
-       @include underline_link($color-alpha);
-   
+       @include underlined_simple ($color-alpha, 2px); 
     }
     .preview__excerpt {
       color: $color-black;
@@ -130,6 +129,7 @@
        
       position: relative;
       display: inline-block;
+      @include underlined_simple (transparent, 2px);
       @include transition(all, 0.6s ease-in-out);
       color: $color-black;
       margin-bottom: 0.5em;
