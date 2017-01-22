@@ -75,9 +75,12 @@
 			content: " — ";
 			margin-right: 5px;
 		}
-		&.fb span {
-			color: #3b5998;
-		}
+		&.fb {
+			border-bolor: #3b5998;
+			span {
+				color: #3b5998;
+				}
+			}
 		&.tw span {
 			color: #55acee;
 		}
