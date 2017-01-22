@@ -145,6 +145,6 @@
 	top: 0;
 	right: 0;
 	transition: top 200ms linear, transform 200ms $easeInOutSine, height 200ms $easeInOutSine, opacity 100ms $easeInOutSine, visibility 200ms linear;
-	transform: translateY(-40%);
+	
 	visibility: visible;
 }
