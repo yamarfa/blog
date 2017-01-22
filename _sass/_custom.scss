@@ -118,4 +118,9 @@
 			top: 7px;
 			left: 0;
 		}
+		div:last-child ul {
+			li {
+				@extend .bold;
+			}
+		}
 }
