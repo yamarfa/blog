@@ -74,14 +74,14 @@
 }
 
 .preview {
-  transition: background-color 0.2s ease-in-out;
+  @include transition(background-color 0.2s ease-in-out;);
   @include clft-anim-regular(10px);
   &:nth-child(even) {
     background-color: $color-white;
   }
 
   &:hover {
-    @include clft-anim-hover();
+    
     background-color: $color-alpha--light;
     .preview__header::after { background-color: $color-alpha; @include transform(scale(1)); }
     .preview__excerpt {
@@ -94,6 +94,7 @@
   }
 
   &__img {
+    @include clft-anim-hover();
     display: none;
     will-change: opacity;
     animation: fade-in 1s both;
