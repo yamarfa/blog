@@ -124,6 +124,7 @@ blockquote {
 code, kbd, pre, samp {
   font-family: $font-mono;
   background: $color-alpha--light;
+  padding: 1.25em; 
 }
 ol, ul {
   margin: 0;
