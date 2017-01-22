@@ -59,11 +59,13 @@
 	}
 .post-meta {
 	@extend .clearfix;
+	padding-bottom: 1.25em;
 	.post-tags {
 		float:left;
 	}
 	.post-share {
 		float:right;
+		padding: 1em 1em 1em 0;
 	}
 }
 .post-share {
