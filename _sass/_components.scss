@@ -75,15 +75,16 @@
 
 .preview {
   @include transition(background-color 0.2s ease-in-out;);
-  @include clft-anim-regular(10px);
   &:nth-child(even) {
     background-color: $color-white;
   }
 
   &:hover {
-    
-    background-color: $color-alpha--light;
-    .preview__header::after { background-color: $color-alpha; @include transform(scale(1)); }
+     background-color: $color-alpha--light;
+    .preview__header::after { 
+      background-color: $color-alpha; 
+      @include transform(scale(1)); 
+    }
     .preview__excerpt {
       color: $color-black;
     }
@@ -94,10 +95,12 @@
   }
 
   &__img {
+
     @include clft-anim-hover();
+    @include clft-anim-regular(10px);
     display: none;
     will-change: opacity;
-    animation: fade-in 1s both;
+    /*animation: fade-in 1s both;*/
   }
 
   &__link {
