@@ -23,6 +23,8 @@ Use the recipe below and glaze your pot as normal. The recipe will create a butt
 Once the glaze has been applied and you are ready to fire, careful watching of the kiln near the maturing point is essential to achieve the froth. Viewing the glaze through the peephole will allow you to see when the kiln should be turned off. You will see an orange peel affect and even some popping of the glaze. This is when the temperature should be reduced.
 
 **Marilee’s Lava Glaze Cone 6, oxidation or reduction**
+
+<pre>
 Glaze Material
 Whiting                   23.91%
 Custer Feldspar           49.73%
@@ -33,6 +35,8 @@ Total:                    100.00%
 Add:
 Titanium Dioxide          11.29%
 Silicon Carbide            3.4%
+
+</pre>
 
 A very rough glaze; not intended for food surfaces. Fine silicon carbide seems to work best. For a gray to black variation, add 7% Mason stain 6600.
 
