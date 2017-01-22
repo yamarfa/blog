@@ -81,6 +81,7 @@
   }
 
   &:hover {
+    @include clft-anim-hover();
     background-color: $color-alpha--light;
     .preview__header::after { background-color: $color-alpha; @include transform(scale(1)); }
     .preview__excerpt {
