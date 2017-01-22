@@ -81,9 +81,9 @@
 
   &:hover {
      background-color: $color-alpha--light;
-    .preview__header::after { 
-      background-color: $color-alpha; 
-      @include transform(scale(1)); 
+    .preview__header { 
+       @include underline_link($color-alpha);
+   
     }
     .preview__excerpt {
       color: $color-black;

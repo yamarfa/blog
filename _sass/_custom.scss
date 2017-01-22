@@ -118,6 +118,7 @@
 		opacity: .2;
 	}
 }
+
 .mast__container {
 		div.tag-container:before {
 			content: "";
@@ -135,15 +136,5 @@
 				@extend .bold;
 			}
 		}
-}
-
-.overlay:before {
-		content: '';
-		left: 0;
-		right: 0;
-		bottom: 0;
-		top: 0;
-		position: absolute;
-		background: rgba(32, 32, 32, 0.25);
 }
 
