@@ -104,6 +104,23 @@ img {
   max-width: 100%;
 }
 
+blockquote {
+  position: relative;
+  margin: 2.5em 0;
+  @extend .bold; 
+  p { color: $black; }
+  footer { margin-top:  1.25em; position: relative; }
+  cite   { color: $color-grey--light; font-weight: 300; font-style: normal; text-align: right; padding-left: 1.25em; position: relative; }
+  cite:before {
+    content: "";
+    position: absolute;
+    width: 2.5em;
+    height:1px;
+    bottom:2px;
+    left:0;
+    background: $color-black;
+  }
+}
 code, kbd, pre, samp {
   font-family: $font-mono;
   background: $color-alpha--light;
