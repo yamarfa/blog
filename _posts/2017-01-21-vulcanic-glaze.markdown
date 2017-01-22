@@ -24,8 +24,8 @@ Once the glaze has been applied and you are ready to fire, careful watching of t
 
 **Marilee’s Lava Glaze Cone 6, oxidation or reduction**
 
-<pre>
 Glaze Material
+<pre>
 Whiting                   23.91%
 Custer Feldspar           49.73%
 Edgar Plastic Kaolin (EPK)    13.18%
@@ -40,9 +40,10 @@ Silicon Carbide            3.4%
 
 A very rough glaze; not intended for food surfaces. Fine silicon carbide seems to work best. For a gray to black variation, add 7% Mason stain 6600.
 
+**Bee's crater glaze, cone 8**
+
 <pre>
 
-Bee's crater glaze, cone 8
 Feldspar potash       50
 China clay            25
 Whiting               25
