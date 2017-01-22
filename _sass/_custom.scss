@@ -26,7 +26,7 @@
       	padding-left: 10em;
       	padding-right: 10em;
     }
-		li {border-bottom: 1px solid #f7f8f9;  }
+		li {  }
 		&--titles {
 			h6 { font-family: $font-post; @include underlined_simple ($color-alpha, 2px);
 				position:relative;
@@ -36,17 +36,19 @@
 		}
 		&--posts {
 			li {
+				
 		  		&:not(:last-of-type) {
 			   			
 				}
 				&:hover {
-					a { @include transition(all, 0.6s ease-in-out); }
+					a { }
 					a::after {
  							background-color: $color-alpha;
 					}
 				}
 			  	a {  
-			  	   		@include underlined_simple (transparent, 2px);
+			  	   		@include underline_link ($color-alpha, 2px);
+			  	   		@include transition(all, 0.6s ease-in-out); 
 					    font-weight: 600;
 					    font-family: $font-header;
 				}
