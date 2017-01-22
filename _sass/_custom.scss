@@ -107,7 +107,7 @@
 	}
 }
 .mast__container {
-		div:last-child:before {
+		div.tag-container:before {
 			content: "";
 			display: block;
 			width: 25px;
