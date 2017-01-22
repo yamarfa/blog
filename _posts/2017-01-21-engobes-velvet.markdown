@@ -10,6 +10,4 @@ image: "/blog/uploads/f196d9719850b8ba55680e2fef2f4397.jpg"
 
 Velvet underglaze series
 
-![8a3c02dae83f9267c8712306a612712c.jpg](/blog/uploads/8a3c02dae83f9267c8712306a612712c.jpg)
-
 > Editing content on Voog works just about how you’d expect. Drag and drop pre-made elements into editable areas, and go.
