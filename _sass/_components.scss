@@ -403,14 +403,13 @@
   }
 
   p:first-child {
-    font-size: 1.25em;
     font-weight: 700;
     margin-bottom: 1.25em;
-    font-family: $font-header;
+    font-family: $font-body;
   }
 
   a {
-    border-bottom: 1px solid $color-alpha;
+    border-bottom: 2px solid $color-alpha;
   }
 
   img {
