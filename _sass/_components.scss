@@ -75,15 +75,13 @@
 
 .preview {
   @include transition(background-color 0.2s ease-in-out);
-  @include clft-anim-regular(10px);
-
+ 
   &:nth-child(even) {
     background-color: $color-white;
   }
 
   &:hover {
-     @include clft-anim-hover();
-     background-color: $color-alpha--light;
+      background-color: $color-alpha--light;
     .preview__header { 
        @include underlined_simple ($color-alpha, 2px); 
     }
@@ -97,18 +95,8 @@
   }
 
   &__img {
-
-    @include clft-anim-hover();
-    isplay: none;
     will-change: opacity;
-      position: absolute;
-  overflow: hidden;
-  top: 0;
-  right: 0;
-  transition: top 200ms linear, transform 200ms $easeInOutSine, height 200ms $easeInOutSine, opacity 100ms $easeInOutSine, visibility 200ms linear;
-  transform: translateY(-40%);
-  visibility: visible;
-    /*animation: fade-in 1s both;*/
+    animation: fade-in 1s both;
   }
 
   &__link {
