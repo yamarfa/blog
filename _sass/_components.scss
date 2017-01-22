@@ -97,10 +97,10 @@
   &__img {
 
     @include clft-anim-hover();
-    @include clft-anim-regular(10px);
-    display: none;
+    
+    isplay: none;
     will-change: opacity;
-    /*animation: fade-in 1s both;*/
+    /*animation: fade-in 1s both;@include clft-anim-regular(10px);*/
   }
 
   &__link {
