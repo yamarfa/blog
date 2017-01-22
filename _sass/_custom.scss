@@ -106,3 +106,16 @@
 		opacity: .2;
 	}
 }
+.mast__container {
+		div:last-child:before {
+			content: "";
+			display: block;
+			width: 25px;
+			height: 1px;
+			background: #fff;
+			opacity: .5;
+			position: absolute;
+			top: 7px;
+			left: 0;
+		}
+}
