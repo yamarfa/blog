@@ -130,7 +130,6 @@
        
       position: relative;
       display: inline-block;
-      @include underlined_simple (transparent, 2px);
       @include transition(all, 0.6s ease-in-out);
       color: $color-black;
       margin-bottom: 0.5em;
