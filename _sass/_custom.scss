@@ -76,17 +76,23 @@
 			margin-right: 5px;
 		}
 		&.fb {
-			border-bolor: #3b5998;
+			border-color: #3b5998;
 			span {
 				color: #3b5998;
 				}
 			}
-		&.tw span {
-			color: #55acee;
-		}
-		&.pin span {
-			color: #bd081c;
-		}
+		&.tw {
+			border-color: #55acee;
+			span {
+				color: #55acee;
+				}
+			} 
+		&.pin {
+			border-color: #bd081c;
+			span {
+				color: #bd081c;
+				}
+		} 
 	}
 	small {
 		margin-right: 5px;
