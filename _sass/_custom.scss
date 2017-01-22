@@ -57,7 +57,15 @@
 				}
 		}
 	}
-
+.post-meta {
+	@extend .clearfix;
+	.post-tags {
+		float:left;
+	}
+	.post-share {
+		float:right;
+	}
+}
 .post-share {
 	a {
 		font-size: rem(17.5px);
