@@ -36,6 +36,8 @@ Silicon Carbide            3.4%
 
 A very rough glaze; not intended for food surfaces. Fine silicon carbide seems to work best. For a gray to black variation, add 7% Mason stain 6600.
 
+<pre>
+
 Bee's crater glaze, cone 8
 Feldspar potash       50
 China clay            25
@@ -43,6 +45,8 @@ Whiting               25
 Vanadium pentoxide    5
 Silicon carbide       5
 Lithium carbonate     5
+
+</pre>
 
 For colour a wee bit of cobalt carbonate and copper oxide does well.
 Apply in the consistency of mayonnaise !
