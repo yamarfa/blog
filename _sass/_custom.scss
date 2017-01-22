@@ -59,6 +59,21 @@
 	}
 
 .post-share {
+	a {
+		font-size: rem(17.5px);
+		&:not(:last-child):not(:first-child):after {
+			content: " — ";
+			margin-right: 5px;
+		}
+		&.fb span {
+			color: #3b5998;
+		}
+		&.tw span {
+			color: #55acee;
+		}
+		&.pin span {
+			
+	}
 	small {
 		margin-right: 5px;
 		font-size: 70%;
