@@ -75,7 +75,7 @@
 
 .preview {
   transition: background-color 0.2s ease-in-out;
-  
+  @include clft-anim-regular(10px);
   &:nth-child(even) {
     background-color: $color-white;
   }
@@ -94,6 +94,7 @@
   }
 
   &__img {
+    display: none;
     will-change: opacity;
     animation: fade-in 1s both;
   }
