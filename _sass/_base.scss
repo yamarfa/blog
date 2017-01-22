@@ -123,8 +123,8 @@ blockquote {
 }
 code, kbd, pre, samp {
   font-family: $font-mono;
+  font-size: 96%;
   background: $color-alpha--light;
-  
 }
 pre {
   padding: 1.25em; 
