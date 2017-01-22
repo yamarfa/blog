@@ -77,27 +77,39 @@
 		}
 		&.fb {
 			border-color: #3b5998;
+			&:hover {
+				color: #3b5998;
+			}
 			span {
 				color: #3b5998;
 				}
 			}
 		&.tw {
 			border-color: #55acee;
+			&:hover {
+				color: #55acee;
+			}
 			span {
 				color: #55acee;
 				}
 			} 
 		&.gg {
-			border-color:  #d34836;
+			border-color: #d34836;
+			&:hover {
+				color: #d34836;
+			}
 			span {
 				color: #d34836;
 				}
 		} 
 		&.pin {
 			border-color: #bd081c;
+			&:hover {
+				color: #bd081c;
+			}
 			span {
 				color: #bd081c;
-				}
+			}
 		} 
 	}
 	small {
