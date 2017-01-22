@@ -47,7 +47,7 @@
 					}
 				}
 			  	a {  
-			  	   		@include underline_link ($color-alpha, 2px);
+			  	   		@include underline_link ($color-alpha);
 			  	   		@include transition(all, 0.6s ease-in-out); 
 					    font-weight: 600;
 					    font-family: $font-header;
