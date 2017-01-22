@@ -103,7 +103,8 @@ img {
   width: 100%;
   max-width: 100%;
 }
-pre, code {
+
+code, kbd, pre, samp {
   font-family: $font-mono;
 }
 ol, ul {
