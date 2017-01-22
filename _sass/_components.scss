@@ -74,7 +74,7 @@
 }
 
 .preview {
-  @include transition(background-color 0.2s ease-in-out;);
+  @include transition(background-color 0.2s ease-in-out);
   &:nth-child(even) {
     background-color: $color-white;
   }
