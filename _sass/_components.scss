@@ -92,6 +92,11 @@
       color: $color-white;
     }
   }
+@mixin clft-anim-hover() {
+  opacity: 1;
+  visibility: visible;
+  transform: translate3d(0, 0, 0);
+}
 
   &__img {
     will-change: opacity;
