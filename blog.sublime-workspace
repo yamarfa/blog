@@ -263,16 +263,17 @@
 			"file": "_sass/_base.scss",
 			"settings":
 			{
-				"buffer_size": 1569,
+				"buffer_size": 2328,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "assets/js/app.js",
+			"file": "_sass/_components.scss",
 			"settings":
 			{
-				"buffer_size": 2481,
+				"buffer_size": 8432,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -280,7 +281,50 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1776,
+				"buffer_size": 2896,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/_mixins.scss",
+			"settings":
+			{
+				"buffer_size": 3053,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 3919,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/_custom.scss",
+			"settings":
+			{
+				"buffer_size": 2192,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/minimal_framework.scss",
+			"settings":
+			{
+				"buffer_size": 5539,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/_animations.scss",
+			"settings":
+			{
+				"buffer_size": 1948,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -351,12 +395,60 @@
 	"expanded_folders":
 	[
 		"/Users/Garcia/Sites/git/blog",
+		"/Users/Garcia/Sites/git/blog/_category",
+		"/Users/Garcia/Sites/git/blog/_includes",
+		"/Users/Garcia/Sites/git/blog/_layouts",
+		"/Users/Garcia/Sites/git/blog/_sass",
 		"/Users/Garcia/Sites/git/blog/assets",
-		"/Users/Garcia/Sites/git/blog/assets/css",
-		"/Users/Garcia/Sites/git/blog/assets/js"
+		"/Users/Garcia/Sites/git/blog/assets/css"
 	],
 	"file_history":
 	[
+		"/Users/Garcia/Sites/git/blog/assets/css/main.scss",
+		"/Users/Garcia/Sites/git/blog/_sass/_helpers.scss",
+		"/Users/Garcia/Sites/git/blog/_sass/_animation.scss",
+		"/Users/Garcia/Sites/git/blog/_sass/_extends.scss",
+		"/Users/Garcia/Sites/git/blog/_sass/animation_framework.scss",
+		"/Users/Garcia/Sites/git/blog/_includes/head.html",
+		"/Users/Garcia/Sites/git/blog/index.html",
+		"/Users/Garcia/Sites/git/blog/_sass/minimal_framework.scss",
+		"/Users/Garcia/Sites/git/blog/_sass/minimal.scss",
+		"/Users/Garcia/Sites/git/blog/_category/ceramics.markdown",
+		"/Users/Garcia/Sites/git/blog/_sass/_components.scss",
+		"/Users/Garcia/Sites/git/blog/_includes/taglist-tab.html",
+		"/Users/Garcia/Sites/git/blog/_includes/categories-tab.html",
+		"/Users/Garcia/Sites/git/blog/_sass/_custom.scss",
+		"/Users/Garcia/Sites/git/blog/_sass/_mixins.scss",
+		"/Users/Garcia/Sites/git/blog/archive.html",
+		"/Users/Garcia/Sites/git/blog/_includes/tag.html",
+		"/Users/Garcia/Sites/git/blog/_includes/category.html",
+		"/Users/Garcia/Sites/git/blog/_tags/art.markdown",
+		"/Users/Garcia/Sites/git/blog/_tags/readinglist.markdown",
+		"/Users/Garcia/Sites/git/blog/_tags/artbooks.markdown",
+		"/Users/Garcia/Sites/git/blog/_tags/books.markdown",
+		"/Users/Garcia/Sites/git/blog/_tags/reading.markdown",
+		"/Users/Garcia/Sites/git/blog/_tags/literature.markdown",
+		"/Users/Garcia/Sites/git/blog/_tags/cinema.markdown",
+		"/Users/Garcia/Sites/git/blog/_tags/design.markdown",
+		"/Users/Garcia/Sites/git/blog/_posts/2017-01-19-artworks.markdown",
+		"/Users/Garcia/Sites/git/blog/_posts/2017-01-19-man-with-movie-camera.markdown",
+		"/Users/Garcia/Sites/git/blog/_tags/thoughts.markdown",
+		"/Users/Garcia/Sites/git/blog/_posts/2017-01-19-new-post.markdown",
+		"/Users/Garcia/Sites/git/blog/_posts/2017-01-19-rev.markdown",
+		"/Users/Garcia/Sites/git/blog/_categories/books.markdown",
+		"/Users/Garcia/Sites/git/blog/_posts/2017-01-19-ahmatova.markdown",
+		"/Users/Garcia/Sites/git/blog/_posts/2017-01-18-design-process.markdown",
+		"/Users/Garcia/Sites/git/blog/_categories/design.markdown",
+		"/Users/Garcia/Sites/git/blog/_categories/art.markdown",
+		"/Users/Garcia/Sites/git/blog/_layouts/post.html",
+		"/Users/Garcia/Sites/git/blog/_layouts/bg.html",
+		"/Users/Garcia/Sites/git/blog/_layouts/default.html",
+		"/Users/Garcia/Sites/git/blog/_categories/design.html",
+		"/Users/Garcia/Sites/git/blog/_config.yml",
+		"/Users/Garcia/Sites/git/blog/_tags/design.html",
+		"/Users/Garcia/Sites/git/blog/_categories/juice.html",
+		"/Users/Garcia/Sites/git/blog/_layouts/tag_index.html",
+		"/Users/Garcia/Sites/git/blog/_includes/tags.html",
 		"/Users/Garcia/Works/web/web-fonts-sources/css/fonts.css",
 		"/Users/Garcia/Works/web/web-fonts-sources/css/style.css",
 		"/Users/Garcia/Works/web/web-fonts-sources/css/font-faces.css",
@@ -439,47 +531,11 @@
 		"/Users/Garcia/Sites/git/cutomizr/html/top-nav-test.html",
 		"/Users/Garcia/Sites/git/cutomizr/html/header.html",
 		"/Users/Garcia/Sites/git/cutomizr/html/grid-masonry-example.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/alternate-example.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/alternate-example-bothsidebars.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/alternate-example-leftsidebar.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/grid-example.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/v-centering__text.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/assets/css/czr/style.css",
-		"/Users/Garcia/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-		"/Users/Garcia/Library/Application Support/Sublime Text 3/Packages/User/SassBeautify.sublime-settings",
-		"/Users/Garcia/Library/Application Support/Sublime Text 3/Packages/SassBeautify/SassBeautify.sublime-settings",
-		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/base/_skins_old.scss",
-		"/Users/Garcia/Sites/git/cutomizr/html/assets/js/desktop_hamburger.js",
-		"/Users/Garcia/Sites/git/cutomizr/html/assets/js/min/desktop_hamburger-ck.js",
-		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/navigation/_topnav_old.scss",
-		"/Users/Garcia/Sites/git/cutomizr/html/assets/js/mobilemenu.js",
-		"/Users/Garcia/Sites/git/cutomizr/html/sticky-nav-overlap.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/index-header-mix.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/navigation/_n__code_topnav.scss",
-		"/Users/Garcia/Sites/git/cutomizr/html/index-header-uncode.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/assets/js/czr/sticky_header.js",
-		"/Users/Garcia/Sites/git/cutomizr/html/sass_compil.txt",
-		"/Users/Garcia/Sites/git/cutomizr/html/index_skin-dark.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/index__s-dfezfezfezf.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/index-skin-light.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/assets/js/czr/utils.js",
-		"/Users/Garcia/Sites/git/cutomizr/html/index-skin-dark.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/assets/js/czr/dropdown_on_click-multitier.js",
-		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/layout/_header.scss",
-		"/Users/Garcia/Sites/git/cutomizr/html/assets/js/cbpAnimatedHeader.js",
-		"/Users/Garcia/Sites/git/cutomizr/html/assets/css/font-awesome.css",
-		"/Users/Garcia/Sites/git/cutomizr/html/assets/css/style.css",
-		"/Users/Garcia/Works/web/perfectlysomething.be/versions/v02/assets/scss/_mixins.scss",
-		"/Users/Garcia/Works/web/perfectlysomething.be/versions/v02/assets/scss/_typography.scss",
-		"/Users/Garcia/Downloads/startbootstrap-agency-1.0.6/index.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/base/typography.scss",
-		"/Users/Garcia/Downloads/startbootstrap-agency-1.0.6/less/variables.less",
-		"/Users/Garcia/Sites/public_html_/404.html",
-		"/Users/Garcia/Downloads/jonschlinkert-vertical-rhythm-c3f3830/vertical-rhythm.css"
+		"/Users/Garcia/Sites/git/cutomizr/html/alternate-example.html"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -494,6 +550,27 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"absolute-bg",
+			"absolute-bg preview__img",
+			"$easeInOutSine",
+			"mast__container",
+			"pre",
+			"tags",
+			"footer",
+			"more",
+			"nav",
+			"post",
+			"footer__archive",
+			"header tabs",
+			"shadow",
+			"color-grey-light",
+			"$color-grey-light",
+			"underline_simple",
+			"tag",
+			"preview__date",
+			".preview__date",
+			".preview__date ",
+			".preview__excerpt",
 			"h6",
 			"h5",
 			"\">",
@@ -600,28 +677,7 @@
 			"comment-edit-btn ",
 			"comment",
 			".comment-reply",
-			"customizr",
-			"pi",
-			"pre",
-			"color: $white",
-			"entry-title",
-			"article-content",
-			"article-conte",
-			"text-align: right",
-			"text-align:right",
-			"text-qlign:right",
-			"branding",
-			"post-type",
-			"entry-footer",
-			" entry-content__holder",
-			"btn",
-			"branding",
-			"0.5",
-			"service",
-			"footer",
-			"Link",
-			"dropdown",
-			"inverted"
+			"customizr"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -659,7 +715,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -668,15 +724,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1569,
+						"buffer_size": 2328,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								81,
-								81
+								184,
+								172
 							]
 						],
 						"settings":
@@ -689,27 +745,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 18.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "assets/js/app.js",
-					"semi_transient": true,
+					"file": "_sass/_components.scss",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2481,
+						"buffer_size": 8432,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1633,
+								1633
 							]
 						],
 						"settings":
@@ -717,12 +773,12 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1503.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -734,15 +790,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1776,
+						"buffer_size": 2896,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								188,
-								188
+								143,
+								119
 							]
 						],
 						"settings":
@@ -755,10 +811,173 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 11.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_sass/_mixins.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								840,
+								826
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 193.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_layouts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								872,
+								857
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_sass/_custom.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1813,
+								1815
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2053.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_sass/minimal_framework.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1086,
+								828
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1188.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_sass/_animations.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								259
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 547.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
