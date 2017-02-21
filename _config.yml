@@ -11,6 +11,7 @@ collections:
   project:
     title: Project
     output: true
+    type: project
   tag:
     title: Tags
     output: true
