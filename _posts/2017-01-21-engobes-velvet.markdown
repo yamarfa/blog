@@ -6,6 +6,7 @@ categories:
 tags:
 - glaze
 image: "/blog/uploads/f196d9719850b8ba55680e2fef2f4397.jpg"
+type: standard
 ---
 
 Velvet underglaze series
