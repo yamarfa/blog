@@ -74,16 +74,17 @@
 }
 
 .preview {
-  transition: background-color 0.2s ease-in-out;
-  
+  @include transition(background-color 0.2s ease-in-out);
+ 
   &:nth-child(even) {
     background-color: $color-white;
   }
 
   &:hover {
-    @include clft-anim-hover();
-    background-color: $color-alpha--light;
-    .preview__header::after { background-color: $color-alpha; @include transform(scale(1)); }
+      background-color: $color-alpha--light;
+    .preview__header { 
+       @include underlined_simple ($color-alpha, 2px); 
+    }
     .preview__excerpt {
       color: $color-black;
     }

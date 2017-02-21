@@ -1,0 +1,16 @@
+---
+layout: grid
+---
+
+<section class="post-grid">
+  <div>
+    <div class="grid">
+      {% for post in paginator.posts %}
+         {% include article-index.html %}
+      {% endfor %}
+
+      
+    </div>
+  </div>
+
+</section>
