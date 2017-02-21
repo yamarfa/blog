@@ -32,13 +32,13 @@
             {% endif %}
         {% endif %}
     {% else %}
-        {% if post.featimg %}
+        {% if post.image %}
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}" class="noline">
-                    {% if post.featimg contains '.png'%}
-                    {% assign thumb = post.featimg | replace: '.png', '' %}
+                    {% if post.image contains '.png'%}
+                    {% assign thumb = post.image | replace: '.png', '' %}
                     <img src="{{ site.media_folder | prepend: site.baseurl | replace: '//', '/'}}/crops/450x253/{{ thumb | append: '-450x253.png' }}" alt="{{ thumb }}">
-                    {% elsif post.featimg contains '.jpg'%}
-                    {% assign thumb = post.featimg | replace: '.jpg', '' %}
+                    {% elsif post.image contains '.jpg'%}
+                    {% assign thumb = post.image | replace: '.jpg', '' %}
                         <img src="{{ site.media_folder | prepend: site.baseurl | replace: '//', '/'}}/crops/450x253/{{ thumb | append: '-450x253.jpg' }}" alt="{{ thumb }}">
                     {% endif %}
                 </a>
