@@ -8,7 +8,7 @@ collections:
   posts:
     title: Posts
     output: true
-  project:
+  projects:
     title: Project
     output: true
     type: project
