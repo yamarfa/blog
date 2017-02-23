@@ -2,6 +2,19 @@
 title: Project N 01
 date: 2017-02-21 22:01:00 +01:00
 type: project
+client: personal research
+env: iOS
+blockquote: |2-
+   <blockquote class="entry-summary blockquote entry-quote">
+                            <p class="m-b-0"><a href="#" title="Permalink to ...">Quote post without metas and title. Kogi Cosby sweater ethical squid irony disrupt, organic tote bag gluten-free XOXO wolf typewriter mixtape small batch.</a></p>
+                            <footer class="blockquote-footer"><cite title="Source Title">Some Crazy Idiot</cite></footer>
+                        </blockquote>
+featured-image: "/uploads/iceland-Bjarni%20Sigurdsson-gardenista-2-e1468022270609.jpg"
+cover-image: "/uploads/Screen%20Shot%202017-01-19%20at%2010.50.41.png"
+gallery-image-01: 
+gallery-image-02: 
+gallery-image-03: 
+gallery-image-04: 
 layout: project
 ---
 
