@@ -15,6 +15,7 @@ gallery-image-01:
 gallery-image-02: 
 gallery-image-03: 
 gallery-image-04: 
+class: web
 layout: project
 ---
 
