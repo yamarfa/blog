@@ -9,8 +9,8 @@ quote: |2-
                             <p class="m-b-0"><a href="#" title="Permalink to ...">Quote post without metas and title. Kogi Cosby sweater ethical squid irony disrupt, organic tote bag gluten-free XOXO wolf typewriter mixtape small batch.</a></p>
                             <footer class="blockquote-footer"><cite title="Source Title">Some Crazy Idiot</cite></footer>
                         </blockquote>
-featured-image: blog/uploads/iceland-Bjarni%20Sigurdsson-gardenista-2-e1468022270609.jpg
-cover-image: blog/uploads/Screen%20Shot%202017-01-19%20at%2010.50.41.png
+featured-image: "/blog/uploads/iceland-Bjarni%20Sigurdsson-gardenista-2-e1468022270609.jpg"
+cover-image: "/blog/uploads/Screen%20Shot%202017-01-19%20at%2010.50.41.png"
 gallery-image-01: 
 gallery-image-02: 
 gallery-image-03: 
