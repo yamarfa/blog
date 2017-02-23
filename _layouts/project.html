@@ -8,10 +8,13 @@
     <main>
       {% for project in site.projects %}
 			  <div class="project">
-			    <h2><img src="{{ cookie.image_path }}" alt="{{ cookie.title }}">{{ project.title }}</a></h2>
+			    <h2><img src="{{ project.cover-image }}" alt="">{{ project.title }}</a></h2>
 			    {{ project.content }}
-			    <p>{{ project.type }}</p>
-			  </div>
+			    <p>{{ project.type }}</p>  
+          <p>{{ project.client }}</p>
+          <p>{{ project.env }}</p>
+          <p>{{ project.quote }}</p>
+          <img src="{{ project.featured-image }}" alt="">{{ project.title }}</a>			  </div>
 			{% endfor %}
     </main>
 
