@@ -286,37 +286,10 @@
 			}
 		},
 		{
-			"file": "grid.html",
+			"file": "_layouts/project.html",
 			"settings":
 			{
-				"buffer_size": 222,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/article-index.html",
-			"settings":
-			{
-				"buffer_size": 2892,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_project/ttt.markdown",
-			"settings":
-			{
-				"buffer_size": 98,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_sass/_animations.scss",
-			"settings":
-			{
-				"buffer_size": 1948,
-				"encoding": "UTF-8",
+				"buffer_size": 392,
 				"line_ending": "Unix"
 			}
 		}
@@ -386,11 +359,14 @@
 	"expanded_folders":
 	[
 		"/Users/Garcia/Sites/git/blog",
-		"/Users/Garcia/Sites/git/blog/assets",
+		"/Users/Garcia/Sites/git/blog/_projects",
 		"/Users/Garcia/Sites/git/blog/assets/css"
 	],
 	"file_history":
 	[
+		"/Users/Garcia/Sites/git/blog/_includes/article-index.html",
+		"/Users/Garcia/Sites/git/blog/grid.html",
+		"/Users/Garcia/Sites/git/blog/_sass/_animations.scss",
 		"/Users/Garcia/Sites/git/blog/_layouts/grid.html",
 		"/Users/Garcia/Sites/git/blog/_sass/_custom.scss",
 		"/Users/Garcia/Sites/git/blog/_layouts/post.html",
@@ -515,10 +491,7 @@
 		"/Users/Garcia/Sites/git/cutomizr/html/slider-example.html",
 		"/Users/Garcia/Sites/git/cutomizr/html/header-with-longsitename.html",
 		"/Users/Garcia/Sites/git/cutomizr/html/assets/scss/navigation/_hamburger.scss",
-		"/Users/Garcia/Sites/git/cutomizr/html/singlearticle-1s-ih.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/top-nav-test.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/header.html",
-		"/Users/Garcia/Sites/git/cutomizr/html/grid-masonry-example.html"
+		"/Users/Garcia/Sites/git/cutomizr/html/singlearticle-1s-ih.html"
 	],
 	"find":
 	{
@@ -702,7 +675,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -735,7 +708,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -768,7 +741,7 @@
 						"translation.y": 1503.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -784,41 +757,8 @@
 						"selection":
 						[
 							[
-								321,
-								321
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "grid.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 222,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								47,
-								47
+								220,
+								223
 							]
 						],
 						"settings":
@@ -838,20 +778,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "_includes/article-index.html",
+					"buffer": 3,
+					"file": "_layouts/project.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2892,
+						"buffer_size": 392,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2202,
-								2202
+								294,
+								294
 							]
 						],
 						"settings":
@@ -860,78 +800,14 @@
 							"remote_loading": false,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_project/ttt.markdown",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 98,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "_sass/_animations.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1948,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								273,
-								259
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 547.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
