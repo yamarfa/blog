@@ -1,7 +1,9 @@
 ---
 title: Project N 01
 date: 2017-02-21 22:01:00 +01:00
-type: project
+id: ma
+type: web
+subtitle: web redesign concept
 client: personal research
 env: iOS
 quote: |2-
@@ -15,7 +17,6 @@ gallery-image-01:
 gallery-image-02: 
 gallery-image-03: 
 gallery-image-04: 
-class: web
 layout: project
 ---
 
