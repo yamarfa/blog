@@ -1,6 +1,6 @@
 ---
 title: ceramic
-date: '2017-01-21T12:13:00.000+00:00'
+date: 2017-01-21 13:13:00 +01:00
 layout: default
 ---
 
