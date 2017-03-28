@@ -1,6 +1,6 @@
 ---
 title: Project N 01
-date: '2017-02-21T21:01:00.000+00:00'
+date: 2017-02-21 22:01:00 +01:00
 id: ma
 type: web
 subtitle: web redesign concept
