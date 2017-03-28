@@ -1,11 +1,11 @@
 ---
 title: Vulcanic glaze
-date: 2017-01-21 18:21:00 +01:00
+date: '2017-01-21T17:21:00.000+00:00'
 categories:
 - ceramic
 tags:
 - glaze
-image: "/blog/uploads/iceland-Bjarni%20Sigurdsson-gardenista-2-e1468022270609.jpg"
+image: "/uploads/iceland-Bjarni%20Sigurdsson-gardenista-2-e1468022270609.jpg"
 type: image
 ---
 
