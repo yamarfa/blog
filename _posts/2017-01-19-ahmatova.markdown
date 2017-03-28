@@ -1,11 +1,11 @@
 ---
 title: Avantgard
-date: 2017-01-19 15:54:00 +01:00
+date: '2017-01-19T14:54:00.000+00:00'
 categories:
 - art
 tags:
 - artbooks
-image: "/blog/uploads/Screen%20Shot%202017-01-19%20at%2010.50.41.png"
+image: "/uploads/Screen%20Shot%202017-01-19%20at%2010.50.41.png"
 layout: post
 ---
 
