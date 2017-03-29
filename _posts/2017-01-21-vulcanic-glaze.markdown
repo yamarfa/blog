@@ -1,12 +1,13 @@
 ---
 title: Vulcanic glaze
-date: 2017-01-21 18:21:00 +01:00
+date: '2017-01-21T17:21:00.000+00:00'
 categories:
 - ceramic
 tags:
 - glaze
 image: "/uploads/iceland-Bjarni%20Sigurdsson-gardenista-2-e1468022270609.jpg"
 type: image
+layout: post
 ---
 
 To create the volcanic reaction, create a slip using the same clay body your pot is made from. For every 100 grams of wet slip, add 10 grams of silicon carbide or barium sulphate. Sieve into a 300 mesh sieve. Mix and apply where you wish the froth to take place.
