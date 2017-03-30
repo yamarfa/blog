@@ -1,6 +1,6 @@
 ---
 title: reading_list
-date: 2017-01-19 19:56:00 +01:00
+date: '2017-01-19T18:56:00.000+00:00'
 layout: default
 ---
 
