@@ -1,6 +1,6 @@
 ---
 title: Man with movie camera
-date: '2017-01-19T17:28:00.000+00:00'
+date: 2017-01-19 18:28:00 +01:00
 tags:
 - cinema
 - thoughts
