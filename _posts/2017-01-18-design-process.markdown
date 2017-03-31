@@ -1,6 +1,6 @@
 ---
 title: Design process
-date: 2017-01-18 20:15:00 +01:00
+date: '2017-01-18T19:15:00.000+00:00'
 categories:
 - design
 tags:
